@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Optimealz Prototype</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <h1>Optimealz Meal Planner</h1>
+
+    <form id="mealForm">
+        <label for="calories">Max Calories:</label>
+        <input type="number" name="calories" id="calories" required>
+
+        <label for="budget">Max Budget ($): </label>
+        <input type="number" name="budget" step="0.01" id="budget" required>
+
+        <label for="diet">Dietary Restriction(s):</label>
+        <!--change this to checkboxes later that are dynamically inserted based on recipes.py-->
+        <select id="diet" name="diet">
+            <option value="">None</option>
+            <option value="vegetarian">Vegetarian</option>
+            <option value="gluten-free">Gluten-Free</option>
+        </select>
+        
+        <button type="submit">Generate Meal Plan</button>
+    </form>
+
+    <h2>Results</h2>
+    <pre id="results">No meal plan generated yet.</pre>
+
+</body>
+</html>
