@@ -12,18 +12,18 @@ form.addEventListener("submit", async (event) => {
     let url = `http://127.0.0.1:8000/generate-plan?max_calories=${calories}&max_budget=${budget}`;
 
     if (diet) {
-        url += `dietary_restriction=${diet}`;
+        url += `&dietary_restriction=${diet}`;
     }
 
     try {
-        // sends request to FastAPI server using the POST method
+        // sends request to FastAPI server using the GET method
         const response = await fetch(url, {
-            method: "POST"
+            method: "GET"
         });
 
         const data = await response.json();
         // prints results and formats it for readability
-        results.textContext = JSON.stringify(data, null, 2);
+        results.textContent = JSON.stringify(data, null, 2);
     } catch (error) {
         results.textContent = "Error generating meal plan.";
     }

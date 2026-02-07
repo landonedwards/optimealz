@@ -9,14 +9,14 @@ def generate_meal_plan(recipes, max_calories, max_budget, dietary_restriction=No
             if dietary_restriction not in recipe.dietary_tags:
                 continue
 
-        if total_calories + recipe.calories > max_calories:
+        if total_calories + recipe.get_calories() > max_calories:
             continue
 
         if total_cost + recipe.cost > max_budget:
             continue
 
         plan.append(recipe)
-        total_calories += recipe.calories
+        total_calories += recipe.get_calories()
         total_cost += recipe.cost
 
     return {
