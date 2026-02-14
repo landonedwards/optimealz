@@ -1,10 +1,11 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
+from pydantic import BaseModel
 import os
 from typing import Optional
 from .recipes import RECIPES
-from .planner import generate_meal_plan
+from .planner import build_meal_plan, aggregate_ingredients
 from .nutrition_api import search_foods, get_nutrition_by_fdc_id
 from .models import Ingredient
 
@@ -23,19 +24,26 @@ app.add_middleware(CORSMiddleware,
 def root():
     return {"message": "Optimealz API running"}
 
-@app.get("/generate-plan")
-def generate_plan(max_calories: int,
-                  max_budget: float,
-                  dietary_restriction: Optional[str] = None):
-    return generate_meal_plan(recipes=RECIPES, 
-                              max_calories=max_calories, 
-                              max_budget=max_budget,
-                              dietary_restriction=dietary_restriction)
+class Constraints(BaseModel):
+    max_calories: int
+    max_budget: float
+    max_cook_time: int = 90
+    dietary_restriction: Optional[str] = None
+
+    target_protein: Optional[int] = None
+    target_carbs: Optional[int] = None
+    target_fat: Optional[int] = None
+
+    meals_per_week: int = 7
 
 @app.post("/generate-plan")
-def generate_plan(max_calories: int, 
-                  max_budget: float, 
-                  dietary_restriction: str | None = None
-                  ):
-    plan = generate_meal_plan(RECIPES, max_calories, max_budget, dietary_restriction)
-    return plan
+def generate_plan(constraints: Constraints):
+    selected_meals = build_meal_plan(RECIPES, constraints)
+    grocery_list = aggregate_ingredients(selected_meals)
+
+    return {
+        "meals": [recipe.name for recipe in selected_meals],
+        "total_cost": sum(recipe.cost for recipe in selected_meals),
+        "total_calories": sum(recipe.get_calories() for recipe in selected_meals),
+        "grocery_list": grocery_list
+    }

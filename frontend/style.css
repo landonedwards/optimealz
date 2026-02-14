@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    height: 1004px;
+    border: 8px solid rgb(255, 213, 161);
+}
+
+.title__container {
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+}
+
+h1 {
+    width: fit-content;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+h2, #results {
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+
+#mealForm {
+    margin: 0 auto;
+    max-width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (min-width: 1000px) {
+    #mealForm {
+        max-width: 40%;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    #mealForm {
+        max-width: 30%;
+    }
+}
