@@ -1,6 +1,38 @@
 const form = document.querySelector("#mealForm");
 const results = document.querySelector("#results");
 
+function renderWeek(data) {
+  results.innerHTML = "";
+
+  // use data.week because of how the FastAPI response is structured
+  const plan = data.week;
+
+  Object.entries(plan).forEach(([day, meals]) => {
+    const daySection = document.createElement("div");
+    daySection.classList.add("day");
+
+    daySection.innerHTML = `<h2>${day}</h2>`;
+
+    meals.forEach((meal, index) => {
+      const mealDiv = document.createElement("div");
+      mealDiv.classList.add("meal");
+
+      if (!meal || !meal.name) {
+        mealDiv.textContent = "No meal planned";
+      } else {
+        mealDiv.innerHTML = `
+          <strong>${meal.name}</strong><br>
+          Calories: ${meal.calories}
+        `;
+      }
+
+      daySection.appendChild(mealDiv);
+    });
+
+    results.appendChild(daySection);
+  });
+}
+
 form.addEventListener("submit", async (event) => {
     // prevents page from refreshing upon submitting
     event.preventDefault();
@@ -31,8 +63,7 @@ form.addEventListener("submit", async (event) => {
         });
 
         const data = await response.json();
-        // prints results and formats it for readability
-        results.textContent = JSON.stringify(data, null, 2);
+        renderWeek(data);
     } catch (error) {
         results.textContent = "Error generating meal plan.";
         console.error("Error:", error)

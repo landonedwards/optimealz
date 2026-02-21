@@ -25,6 +25,7 @@ class Recipe:
             "name": self.name,
             "cost": self.cost,
             "cook_time": self.cook_time,
+            "calories": self.get_calories(),
             "nutrition": self.nutrition,
             "dietary_tags": self.dietary_tags
         }

@@ -47,6 +47,30 @@ def aggregate_ingredients(recipes):
             grocery[ingredient] = grocery.get(ingredient, 0) + amount
     
     return grocery
+    
+def assign_meals_to_days(selected_recipes, meals_per_day=3):
+    days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+    if meals_per_day is not None and meals_per_day <= 0:
+        raise ValueError("meals_per_day must be greater than 0")
+    
+    weekly_plan = {}
+    # enumerate adds a counter to an iterable (0: Sunday)
+    for day_index, day in enumerate(days):
+        # calculate start index based on current index and number of meals per day (0 * 3 = 0)
+        start = day_index * meals_per_day
+        # calculate end index based on number of meals per day (0 + 3 = 3)
+        end = start + meals_per_day
+        # grab the slice of the array using the start and end indices (0:3 (first three recipes would go to Sunday))
+        daily_meals = selected_recipes[start:end]
+
+        # pad with None if there aren't enough meals left (helps JS render more consistently)
+        while len(daily_meals) < meals_per_day:
+            daily_meals.append(None)
+
+        weekly_plan[day] = daily_meals
+
+    return weekly_plan
 
 def build_meal_plan(recipes, constraints):
     # eliminate any single recipes that violate a contraint
