@@ -16,11 +16,14 @@
     </section>
 
     <form id="mealForm">
-        <label for="calories">Max Calories:</label>
+        <label for="calories">Calories per day:</label>
         <input type="number" name="calories" id="calories" required>
 
-        <label for="budget">Max Budget ($): </label>
+        <label for="budget">Budget per day ($): </label>
         <input type="number" name="budget" step="0.01" id="budget" required>
+
+        <label for="cooking-time">Available cooking time per meal (mins): </label>
+        <input type="number" name="cooking-time" step="1" id="cooking-time" required>
 
         <label for="diet">Dietary Restriction(s):</label>
         <!--change this to checkboxes later that are dynamically inserted based on recipes.py-->
@@ -29,12 +32,29 @@
             <option value="vegetarian">Vegetarian</option>
             <option value="gluten-free">Gluten-Free</option>
         </select>
+
+        <label for="meals-per-day">Number of meals per day: </label>
+        <input type="number" name="meals-per-day" step="1" id="meals-per-day">
+
+        <section id="macros">
+            <label for="protein">Protein (g): </label>
+            <input type="number" name="protein" step="1" id="protein">
+
+            <label for="carbs">Carbs (g): </label>
+            <input type="number" name="carbs" step="1" id="carbs">
+
+            <label for="fat">Fat (g): </label>
+            <input type="number" name="fat" step="1" id="fat">
+        </section>
         
         <button type="submit">Generate Meal Plan</button>
     </form>
 
     <h2>Results</h2>
-    <pre id="results">No meal plan generated yet.</pre>
+    <section id="results">
+        <section id="mealPlan">No meal plan generated yet.</section>
+        <section id="groceryList">No grocery list available.</section>
+    </section>
 
 </body>
 </html>

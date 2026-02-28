@@ -1,6 +1,7 @@
 body {
     margin: 0px;
-    height: 1004px;
+    min-height: 1004px;
+    height: 100%;
     border: 8px solid rgb(255, 213, 161);
 }
 
@@ -33,9 +34,64 @@ h2, #results {
     flex-direction: column;
 }
 
+#macros {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+    margin: 5px 5px 5px 0px;
+
+    input {
+        max-height: 16px;
+        width: 50px;
+    }
+}
+
+#results {
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+#mealPlan {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    .dayCard {
+        flex: 1;
+        min-width: 275px;
+        height: 255px;
+        border: 1px solid black;
+        padding: 10px;
+        text-align: left;
+    }
+}
+
+#groceryList {
+    margin-top: 10px;
+    border: 2px solid black;
+}
+
+button {
+    margin-top: 10px;
+}
+
+@media screen and (min-width: 750px) {
+    #macros {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
 @media screen and (min-width: 1000px) {
     #mealForm {
         max-width: 40%;
+    }
+
+    .dayCard {
+        max-width: 250px;
     }
 }
 

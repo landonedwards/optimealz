@@ -8,7 +8,8 @@ class Recipe:
         cook_time: int,
         dietary_tags: List[str],
         nutrition: Dict[str, float],
-        ingredients: Dict[str, float]
+        # supports this format: "rice" : {"amount": 2, "unit:" "cups"}
+        ingredients: Dict[str, Dict[str, str | float]]
     ):
         self.name = name
         self.cost = cost

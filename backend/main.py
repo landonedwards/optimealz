@@ -34,14 +34,16 @@ class Constraints(BaseModel):
     target_carbs: Optional[int] = None
     target_fat: Optional[int] = None
 
-    meals_per_week: int = 7
+    meals_per_day: Optional[int] = 3
+    # 3 meals x 7 days
+    meals_per_week: int = 21
 
 @app.post("/generate-plan")
 def generate_plan(constraints: Constraints):
     selected_meals = build_meal_plan(RECIPES, constraints)
 
     # structure meals into a weekly plan
-    weekly_plan = assign_meals_to_days(selected_meals)
+    weekly_plan = assign_meals_to_days(selected_meals, constraints.meals_per_day)
     grocery_list = aggregate_ingredients(selected_meals)
 
     return {

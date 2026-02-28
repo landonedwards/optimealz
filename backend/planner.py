@@ -1,3 +1,5 @@
+import random
+
 def filter_recipes(recipes, constraints):
     valid_recipes = []
 
@@ -14,6 +16,30 @@ def filter_recipes(recipes, constraints):
         valid_recipes.append(recipe)
 
     return valid_recipes
+
+def exceeds_macros(current_totals, recipe, constraints):
+    """
+    Prevents plan from drifting far beyond macro targets. Allows
+    some flexibility but blocks extreme overshoots. 
+    """
+
+    # helper function to compare what the combined total (current total + recipe.macro) would be vs. allowed amount 
+    def exceeds(key, target):
+        # if no target value for macro...
+        if not target:
+            return False
+        
+        # allows up to 20% over target
+        allowed = target * 1.2
+        # returns whether current total + recipe macro content is greater than 1.2x the target
+        return current_totals[key] + recipe.nutrition.get(key, 0) > allowed  # second value (0) in get() is a fallback value
+    
+    return (
+        # returns true if any of these would exceed allowed (target * 1.2)
+        exceeds("protein", constraints.target_protein) or
+        exceeds("carbs", constraints.target_carbs) or
+        exceeds("fat", constraints.target_fat)
+    )
 
 def score_recipe(recipe, constraints):
     score = 0
@@ -42,11 +68,26 @@ def aggregate_ingredients(recipes):
 
     for recipe in recipes:
         # .items() returns a list of (key, value) tuples in the dict
-        for ingredient, amount in recipe.ingredients.items():
-            # grab the value of the ingredient if it exists and add amount needed for new recipe; if it does not, start at 0
-            grocery[ingredient] = grocery.get(ingredient, 0) + amount
+        for item in recipe.ingredients:
+
+            name = item["name"]
+            amount = item["amount"]
+            unit = item["unit"]
+
+            key = f"{name}_{unit}" # prevents mixing cups vs grams
+
+            # use a combined key to keep units separate (ex: "spinach_g")
+            if key not in grocery:
+                grocery[key] = {
+                    "name": name,
+                    "amount": 0,
+                    "unit": unit
+                }
+
+            # grab the value of the ingredient if it exists and add amount needed for new recipe
+            grocery[key]["amount"] += amount
     
-    return grocery
+    return list(grocery.values())
     
 def assign_meals_to_days(selected_recipes, meals_per_day=3):
     days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
@@ -76,6 +117,9 @@ def build_meal_plan(recipes, constraints):
     # eliminate any single recipes that violate a contraint
     recipe_candidates = filter_recipes(recipes, constraints)
 
+    # shuffle so the plan isn't the same every time (even with same constraints)
+    random.shuffle(recipe_candidates)
+
     ranked = sorted(recipe_candidates, 
                     # for each recipe, calculate its score and order it 
                     key=lambda r: score_recipe(r, constraints), 
@@ -85,6 +129,7 @@ def build_meal_plan(recipes, constraints):
     chosen = []
     total_calories = 0
     total_cost = 0
+    macro_totals = {"protein": 0, "carbs": 0, "fat": 0}
     
     for recipe in ranked:
         # exit early if we've already gathered the correct number of meals for the week
@@ -101,9 +146,17 @@ def build_meal_plan(recipes, constraints):
         if recipe.name in [recipe.name for recipe in chosen]:
             continue
 
+        if exceeds_macros(macro_totals, recipe, constraints):
+            continue
+
         chosen.append(recipe)
+
         total_calories += recipe.get_calories()
         total_cost += recipe.cost
+
+        # update macro totals
+        for key in macro_totals:
+            macro_totals[key] += recipe.nutrition.get(key, 0)
 
     return chosen
 
