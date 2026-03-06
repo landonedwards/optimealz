@@ -9,7 +9,8 @@ class Recipe:
         dietary_tags: List[str],
         nutrition: Dict[str, float],
         # supports this format: "rice" : {"amount": 2, "unit:" "cups"}
-        ingredients: Dict[str, Dict[str, str | float]]
+        ingredients: Dict[str, Dict[str, str | float]],
+        source_url=None
     ):
         self.name = name
         self.cost = cost
@@ -17,6 +18,7 @@ class Recipe:
         self.dietary_tags = dietary_tags
         self.nutrition = nutrition
         self.ingredients = ingredients
+        self.source_url = source_url
 
     def get_calories(self):
         return self.nutrition.get("calories", 0)
@@ -28,7 +30,9 @@ class Recipe:
             "cook_time": self.cook_time,
             "calories": self.get_calories(),
             "nutrition": self.nutrition,
-            "dietary_tags": self.dietary_tags
+            "dietary_tags": self.dietary_tags,
+            "ingredients": self.ingredients,
+            "source_url": self.source_url
         }
 
 class Ingredient:

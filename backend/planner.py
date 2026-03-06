@@ -41,8 +41,29 @@ def exceeds_macros(current_totals, recipe, constraints):
         exceeds("fat", constraints.target_fat)
     )
 
+def calculate_calorie_score(recipe_calories, constraints):
+    """
+    Rewards recipes that are close to the ideal calories per meal
+    target.
+    """
+    if not constraints.max_calories or not constraints.meals_per_day:
+        return 0
+    
+    target_per_meal = constraints.max_calories / constraints.meals_per_day
+    # calculate how far off the recipe is (ex: 600 - 500 = 100)
+    diff = abs(recipe_calories - target_per_meal)
+    # ex: (100 / 500) * 10 = 2  
+    penalty = (diff / target_per_meal) * 10
+
+    # prevents score from becoming negative (ex: 10 - 2 = 8 points)
+    return max(0, 10 - penalty)
+
 def score_recipe(recipe, constraints):
     score = 0
+
+    # meals that are on track to meet the calorie goal are preferred
+    cal_score = calculate_calorie_score(recipe.get_calories(), constraints)
+    score += (cal_score * 4)
 
     # cheaper meals preferred 
     score += (10 - recipe.cost)

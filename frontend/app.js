@@ -33,7 +33,7 @@ function renderPlan(data) {
         mealDiv.textContent = "No meal planned";
       } else {
         mealDiv.innerHTML = `
-          <strong>${meal.name}</strong><br>
+          <a href="${meal.source_url}" target="_blank"><strong>${meal.name}</strong></a><br>
           Calories: ${meal.calories} | 
           Cook Time: ${meal.cook_time} min | 
           Cost: $${meal.cost.toFixed(2)}
@@ -47,6 +47,25 @@ function renderPlan(data) {
   });
 
   renderGroceryList(data);
+}
+
+function validateConstraints(data) {
+  if (data.max_calories <= 0) {
+    alert("Calories must be greater than 0.");
+    return false;
+  }
+
+  if (data.max_budget <= 0) {
+    alert("Budget must be greater than 0.");
+    return false;
+  }
+
+  if (data.max_cook_time <= 0) {
+    alert("Cooking time must be greater than 0.");
+    return false;
+  }
+
+  return true;
 }
 
 form.addEventListener("submit", async (event) => {
@@ -80,6 +99,11 @@ form.addEventListener("submit", async (event) => {
         meals_per_day: Number(mealsPerDay) || 3,
         meals_per_week: mealsPerDay * 7 
     };
+
+    // if constraints are not valid, return early
+    if (!validateConstraints(constraints)) {
+      return;
+    }
 
     try {
         // sends request to FastAPI server using the POST method
