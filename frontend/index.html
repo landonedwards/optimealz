@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Optimealz Prototype</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
     <script src="app.js" defer></script>
 </head>
 <body>
@@ -52,8 +53,12 @@
 
     <h2>Results</h2>
     <section id="results">
+        <div id="weeklyStats"></div>
         <section id="mealPlan">No meal plan generated yet.</section>
-        <section id="groceryList">No grocery list available.</section>
+        <section id="planBreakdownSection">
+            <section id="groceryList">No grocery list available.</section>
+            <canvas id="nutritionChart"></canvas>
+        </section>
     </section>
 
 </body>

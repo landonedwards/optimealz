@@ -36,7 +36,7 @@ class Constraints(BaseModel):
 
     meals_per_day: Optional[int] = 3
     # 3 meals x 7 days
-    meals_per_week: int = Field(default=21, ge=1, le=21)
+    meals_per_week: int = Field(default=21, ge=1)
 
 @app.post("/generate-plan")
 def generate_plan(constraints: Constraints):

@@ -1,9 +1,12 @@
 const form = document.querySelector("#mealForm");
 const results = document.querySelector("#results");
 const mealPlan = document.querySelector("#mealPlan");
+const groceryDiv = document.querySelector("#groceryList");
+
+// stored as a global variable so it is destroyed before a redrawing
+let macroChartInstance = null
 
 function renderGroceryList(data) {
-  const groceryDiv = document.querySelector("#groceryList");
   groceryDiv.innerHTML = "<h2>Grocery List</h2>";
 
   data.grocery_list.forEach(item => {
@@ -13,11 +16,68 @@ function renderGroceryList(data) {
   });
 }
 
+function renderMacroChart(allMeals) {
+  const totalProtein = allMeals.reduce(
+    (sum, meal) => sum + (meal.nutrition.protein || 0),
+    0,
+  );
+  const totalCarbs = allMeals.reduce(
+    (sum, meal) => sum + (meal.nutrition.carbs || 0),
+    0,
+  );
+  const totalFat = allMeals.reduce(
+    (sum, meal) => sum + (meal.nutrition.fat || 0),
+    0,
+  );
+
+  if (macroChartInstance) {
+    // destroy previous chart before redrawing to prevent canvas stacking
+    macroChartInstance.destroy();
+  }
+
+  const ctx = document.querySelector("#nutritionChart").getContext("2d");
+  macroChartInstance = new Chart(ctx, {
+    type: "pie",
+    data: {
+      labels: ["Protein", "Carbs", "Fat"],
+      datasets: [
+        {
+          data: [
+            Math.round(totalProtein),
+            Math.round(totalCarbs),
+            Math.round(totalFat),
+          ],
+          backgroundColor: ["#f97316", "#fbbf24", "#fed7aa"],
+          borderWidth: 0,
+          hoverOffset: 6,
+        },
+      ],
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: {
+          position: "bottom",
+          labels: {
+            padding: 16,
+            usePointStyle: true, // circle markers instead of square boxes
+            font: { size: 13 },
+          },
+        },
+        tooltip: {
+          callbacks: { label: (item) => `${item.label}: ${item.parsed}g` },
+        },
+      },
+    },
+  });
+}
+
 function renderPlan(data) {
   mealPlan.innerHTML = "";
 
   // use data.week because of how the FastAPI response is structured
   const plan = data.week;
+  const allMeals = Object.values(plan).flat().filter(Boolean);
 
   Object.entries(plan).forEach(([day, meals]) => {
     const dayCard = document.createElement("div");
@@ -47,6 +107,7 @@ function renderPlan(data) {
   });
 
   renderGroceryList(data);
+  renderMacroChart(allMeals);
 }
 
 function validateConstraints(data) {
@@ -85,6 +146,7 @@ form.addEventListener("submit", async (event) => {
 
     let url = `http://127.0.0.1:8000/generate-plan`;
 
+    const mealsPerDayNumber = Number(mealsPerDay) || 3;
     // create an object matching the Constraints model
     const constraints = {
         max_calories: Number(calories) * 7,
@@ -97,7 +159,7 @@ form.addEventListener("submit", async (event) => {
         target_fat: Number(fat) * 7 || null,
 
         meals_per_day: Number(mealsPerDay) || 3,
-        meals_per_week: mealsPerDay * 7 
+        meals_per_week: mealsPerDayNumber * 7 
     };
 
     // if constraints are not valid, return early

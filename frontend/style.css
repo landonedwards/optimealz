@@ -61,7 +61,7 @@ h2, #results {
     .dayCard {
         flex: 1;
         min-width: 275px;
-        height: 255px;
+        height: 270px;
         border: 1px solid black;
         padding: 10px;
         text-align: left;

@@ -63,7 +63,7 @@ def score_recipe(recipe, constraints):
 
     # meals that are on track to meet the calorie goal are preferred
     cal_score = calculate_calorie_score(recipe.get_calories(), constraints)
-    score += (cal_score * 4)
+    score += (cal_score * 3)
 
     # cheaper meals preferred 
     score += (10 - recipe.cost)
@@ -148,6 +148,7 @@ def build_meal_plan(recipes, constraints):
                     reverse=True)
     
     chosen = []
+    chosen_names = set()
     total_calories = 0
     total_cost = 0
     macro_totals = {"protein": 0, "carbs": 0, "fat": 0}
@@ -163,15 +164,14 @@ def build_meal_plan(recipes, constraints):
         if total_cost + recipe.cost > constraints.max_budget:
             continue
 
-        # creates temporary list of names currently in chosen and compares the current recipe name against it
-        if recipe.name in [recipe.name for recipe in chosen]:
+        if recipe.name in chosen_names:
             continue
 
         if exceeds_macros(macro_totals, recipe, constraints):
             continue
 
         chosen.append(recipe)
-
+        chosen_names.add(recipe.name)
         total_calories += recipe.get_calories()
         total_cost += recipe.cost
 
