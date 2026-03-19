@@ -28,6 +28,7 @@ def fetch_batch(extra_params, batch_size=25):
     }
 
     response = requests.get(url, params=params)
+    # prevents program from silently continuing if the response is unsuccessful
     response.raise_for_status()
     return response.json().get("results", [])
 
@@ -93,6 +94,7 @@ def load_cache():
     """
     if not os.path.exists(CACHE_FILE):
         print("No existing cache found. A new one will be created.")
+        # returns tuple of list and set
         return [], set()
 
     with open(CACHE_FILE, "r") as file:
@@ -147,7 +149,7 @@ def run_builder(bucket_list, batch_size=25):
         {"cuisine": "mediterranean"}
 
     Each bucket is fetched, normalized, and deduplicated against the
-    existing cache before being merged in. Safe to run multiple times —
+    existing cache before being merged in. Safe to run multiple times;
     recipes already in the cache are always skipped.
     """
     existing_recipes, existing_names = load_cache()

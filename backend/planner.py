@@ -109,30 +109,73 @@ def aggregate_ingredients(recipes):
             grocery[key]["amount"] += amount
     
     return list(grocery.values())
-    
-def assign_meals_to_days(selected_recipes, meals_per_day=3):
+
+def calculate_day_need_score(day_totals, active_targets):
+    """
+    Helper function for assign_meals_to_days(). Returns how far below 
+    its targets this day currently is, as a combined percentage. Higher
+    score means it is a needier day and it should receive the next meal.
+    """
+    total_deficit = 0
+    for key, target in active_targets.items():
+        if target:
+            # calculate percentage of this target still unfulfilled 
+            deficit = max(0, target - day_totals[key]) / target
+            total_deficit += deficit
+    return total_deficit
+
+def assign_meals_to_days(selected_recipes, constraints):
     days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
-    if meals_per_day is not None and meals_per_day <= 0:
+    if constraints.meals_per_day is not None and constraints.meals_per_day <= 0:
         raise ValueError("meals_per_day must be greater than 0")
     
-    weekly_plan = {}
-    # enumerate adds a counter to an iterable (0: Sunday)
-    for day_index, day in enumerate(days):
-        # calculate start index based on current index and number of meals per day (0 * 3 = 0)
-        start = day_index * meals_per_day
-        # calculate end index based on number of meals per day (0 + 3 = 3)
-        end = start + meals_per_day
-        # grab the slice of the array using the start and end indices (0:3 (first three recipes would go to Sunday))
-        daily_meals = selected_recipes[start:end]
+    day_buckets = {day: [] for day in days}
 
-        # pad with None if there aren't enough meals left (helps JS render more consistently)
-        while len(daily_meals) < meals_per_day:
-            daily_meals.append(None)
+    day_totals = {
+        day: {"calories": 0, "protein": 0, "carbs": 0, "fat": 0}
+        for day in days
+    }
 
-        weekly_plan[day] = daily_meals
+    # only include macros the user set a target for
+    active_targets = {"calories": constraints.max_calories}
+    if constraints.target_protein:
+        active_targets["protein"] = constraints.target_protein
+    if constraints.target_carbs:
+        active_targets["carbs"] = constraints.target_carbs
+    if constraints.target_fat:
+        active_targets["fat"] = constraints.target_fat
 
-    return weekly_plan
+    # highest calorie meals first
+    sorted_by_calories = sorted(selected_recipes, 
+                                key=lambda r: r.get_calories(),
+                                reverse=True)
+    
+    for recipe in sorted_by_calories:
+        eligible_days = [day for day in days if len(day_buckets[day]) < constraints.meals_per_day]
+        if not eligible_days:
+            break  # all days are full, stop assigning
+
+        # find the day furthest from meeting its targets
+        neediest_day = max(eligible_days, 
+                           key=lambda day: calculate_day_need_score(day_totals[day], active_targets))
+        
+        day_buckets[neediest_day].append(recipe)
+
+        # update that day's running totals so the next iteration
+        # reflects this meal being committed to it
+        day_totals[neediest_day]["calories"] += recipe.get_calories()
+        day_totals[neediest_day]["protein"]  += recipe.nutrition.get("protein", 0)
+        day_totals[neediest_day]["carbs"]    += recipe.nutrition.get("carbs", 0)
+        day_totals[neediest_day]["fat"]      += recipe.nutrition.get("fat", 0)
+
+    # pad any short days with None so the frontend always gets
+    # exactly meals_per_day slots per day to render
+    for day in days:
+        while len(day_buckets[day]) < constraints.meals_per_day:
+            day_buckets[day].append(None)
+
+    return day_buckets
 
 def build_meal_plan(recipes, constraints):
     # eliminate any single recipes that violate a contraint
@@ -179,5 +222,6 @@ def build_meal_plan(recipes, constraints):
         for key in macro_totals:
             macro_totals[key] += recipe.nutrition.get(key, 0)
 
-    return chosen
+    weekly_plan = assign_meals_to_days(chosen, constraints)
+    return weekly_plan, chosen
 

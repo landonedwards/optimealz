@@ -5,7 +5,7 @@ from pydantic import BaseModel, Field
 import os
 from typing import Optional, List, Any
 from .recipes import RECIPES
-from .planner import build_meal_plan, aggregate_ingredients, assign_meals_to_days
+from .planner import build_meal_plan, aggregate_ingredients
 from .models import Ingredient
 
 load_dotenv()
@@ -40,11 +40,8 @@ class Constraints(BaseModel):
 
 @app.post("/generate-plan")
 def generate_plan(constraints: Constraints):
-    selected_meals = build_meal_plan(RECIPES, constraints)
-
-    # structure meals into a weekly plan
-    weekly_plan = assign_meals_to_days(selected_meals, constraints.meals_per_day)
-    grocery_list = aggregate_ingredients(selected_meals)
+    weekly_plan, all_meals = build_meal_plan(RECIPES, constraints)
+    grocery_list = aggregate_ingredients(all_meals)
 
     return {
         "week": {
@@ -55,8 +52,8 @@ def generate_plan(constraints: Constraints):
             for day, meals in weekly_plan.items()
         },
         "totals": {
-            "cost": sum(recipe.cost for recipe in selected_meals),
-            "calories": sum(recipe.get_calories() for recipe in selected_meals)
+            "cost": sum(meal.cost for meal in all_meals),
+            "calories": sum(meal.get_calories() for meal in all_meals)
         },
         "grocery_list": grocery_list
     }

@@ -5,6 +5,10 @@ const groceryDiv = document.querySelector("#groceryList");
 
 // stored as a global variable so it is destroyed before a redrawing
 let macroChartInstance = null
+// track per-day chart instances so we can destroy them before redrawing
+let dayChartInstances = {};
+// register data labels plugin
+Chart.register(ChartDataLabels);
 
 function renderGroceryList(data) {
   groceryDiv.innerHTML = "<h2>Grocery List</h2>";
@@ -13,6 +17,105 @@ function renderGroceryList(data) {
     const listItem = document.createElement("p");
     listItem.textContent = `${item.name}: ${item.amount} ${item.unit}`;
     groceryDiv.appendChild(listItem);
+  });
+}
+
+function renderDayCharts(dayCard, meals, day, dailyCalorieTarget) {
+  const validMeals = meals.filter(Boolean);
+
+  // sum up macros and calories for this day's meals
+  const dayCalories = validMeals.reduce((sum, meal) => sum + (meal.nutrition.calories || 0), 0);
+  const dayProtein  = validMeals.reduce((sum, meal) => sum + (meal.nutrition.protein  || 0), 0);
+  const dayCarbs    = validMeals.reduce((sum, meal) => sum + (meal.nutrition.carbs    || 0), 0);
+  const dayFat      = validMeals.reduce((sum, meal) => sum + (meal.nutrition.fat      || 0), 0);
+
+  // container for both charts side by side
+  const chartRow = document.createElement("div");
+  chartRow.classList.add("chartRow");
+
+  // -- macro pie chart --
+  const pieWrapper = document.createElement("div");
+  pieWrapper.classList.add("pieWrapper");
+
+  const pieCanvas = document.createElement("canvas");
+  pieCanvas.id = `macroChart-${day}`;
+  pieWrapper.appendChild(pieCanvas);
+
+  // -- calorie progress bar --
+  const progressWrapper = document.createElement("div");
+  progressWrapper.classList.add("progressWrapper");
+
+  const percentage = dailyCalorieTarget
+    ? Math.min(Math.round((dayCalories / dailyCalorieTarget) * 100))
+    : 0;
+
+  const barColor = percentage >= 90 ? "#86efac" : percentage >= 60 ? "#fbbf24" : "#f97316";
+
+  progressWrapper.innerHTML = `
+    <p class="calorieHeader">
+      Calories: <strong>${Math.round(dayCalories)}</strong> / ${dailyCalorieTarget ?? "—"} kcal
+    </p>
+    <div class="barWrapper">
+      <div class="progressBar"></div>
+    </div>
+    <p class="caloriePercentage">${percentage}% of daily target</p>
+  `;
+
+  // grab progress bar after it has been created and apply variable styles to it
+  const progressBar = progressWrapper.querySelector(".progressBar");
+  progressBar.style.width = `${percentage}%`;
+  progressBar.style.background = barColor;
+
+  chartRow.appendChild(pieWrapper);
+  chartRow.appendChild(progressWrapper);
+  dayCard.appendChild(chartRow);
+
+  // destroy previous chart for this day if it exists
+  if (dayChartInstances[day]) {
+    dayChartInstances[day].destroy();
+  }
+
+  // draw the macro pie
+  dayChartInstances[day] = new Chart(pieCanvas.getContext("2d"), {
+    type: "pie",
+    data: {
+      labels: ["Protein", "Carbs", "Fat"],
+      datasets: [{
+        data: [Math.round(dayProtein), Math.round(dayCarbs), Math.round(dayFat)],
+        backgroundColor: ["#f97316", "#fbbf24", "#fed7aa"],
+        borderWidth: 0,
+        hoverOffset: 4,
+      }],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        datalabels: {
+          formatter: (value, context) => {
+            const total = context.dataset.data.reduce((sum, v) => sum + v, 0);
+            const pct = Math.round((value / total) * 100);
+            return total > 0 ? `${value}g\n${pct}%` : "";
+          },
+          color: "#fff",
+          font: { size: 10, weight: "bold" },
+          display: (context) => {
+            const total = context.dataset.data.reduce((sum, v) => sum + v, 0);
+            return (context.dataset.data[context.dataIndex] / total) > 0.08;
+          },
+        },
+        legend: { display: false }, // legend would be too cramped at this size
+        tooltip: {
+          callbacks: {
+            label: (item) => {
+              const total = item.dataset.data.reduce((sum, v) => sum + v, 0);
+              const pct = Math.round((item.parsed / total) * 100);
+              return `${item.label}: ${item.parsed}g (${pct}%)`;
+            },
+          },
+        },
+      },
+    },
   });
 }
 
@@ -56,6 +159,21 @@ function renderMacroChart(allMeals) {
     options: {
       responsive: true,
       plugins: {
+        datalabels: {
+          // shows grams and percentage inside each slide
+          formatter: (value, context) => {
+          const total = context.dataset.data.reduce((sum, val) => sum + val, 0);
+          const percentage = Math.round((value / total) * 100);
+          return `${value}g\n(${percentage}%)`;
+        },
+        color: "#fff",
+        font: { size: 20, weight: "bold" },
+        // hide the label if the slice is too small to fit text
+        display: (context) => {
+          const total = context.dataset.data.reduce((sum, val) => sum + val, 0);
+          return (context.dataset.data[context.dataIndex] / total) > 0.08;
+          },
+        },
         legend: {
           position: "bottom",
           labels: {
@@ -72,8 +190,11 @@ function renderMacroChart(allMeals) {
   });
 }
 
-function renderPlan(data) {
+function renderPlan(data, dailyCalorieTarget) {
   mealPlan.innerHTML = "";
+
+  Object.values(dayChartInstances).forEach(chart => chart.destroy());
+  dayChartInstances = {};
 
   // use data.week because of how the FastAPI response is structured
   const plan = data.week;
@@ -103,6 +224,18 @@ function renderPlan(data) {
       dayCard.appendChild(mealDiv);
     });
 
+    // add divider section between meal info and nutrient info
+    const sectionBreak = document.createElement("div");
+    sectionBreak.classList.add("mealSectionBreak");
+    sectionBreak.innerHTML = `
+    <hr>
+    <h3>Nutrient Breakdown</h3>
+    `;
+
+    dayCard.appendChild(sectionBreak);
+
+    // render both charts at bottom of this dayCard
+    renderDayCharts(dayCard, meals, day, dailyCalorieTarget);
     mealPlan.appendChild(dayCard);
   });
 
@@ -178,7 +311,10 @@ form.addEventListener("submit", async (event) => {
         });
 
         const data = await response.json();
-        renderPlan(data);
+
+        // pass the daily calorie input from form into renderPlan
+        const dailyCalorieTarget = Number(calories);
+        renderPlan(data, dailyCalorieTarget);
     } catch (error) {
         results.textContent = "Error generating meal plan.";
         console.error("Error:", error)

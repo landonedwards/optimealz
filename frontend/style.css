@@ -61,16 +61,90 @@ h2, #results {
     .dayCard {
         flex: 1;
         min-width: 275px;
-        height: 270px;
+        min-height: fit-content;
         border: 1px solid black;
-        padding: 10px;
+        padding: 15px;
         text-align: left;
+
+        .meal {
+            min-height: 60px;
+            margin-bottom: 10px;
+        }
+
+        .mealSectionBreak {
+            text-align: center; 
+
+            h3 {
+                margin-top: -5px;
+            }
+        }
     }
+}
+
+.chartRow {
+    display: flex;
+    gap: clamp(30px, 5vw, 70px);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+    .pieWrapper {
+        width: 140px;
+        height: 140px;
+        flex-shrink: 0;
+    }
+
+    .progressWrapper {
+        flex: 1;
+        max-width: 200px;
+
+        .calorieHeader {
+            margin: 0 0 4px;
+            font-size: 13px;
+            width: fit-content;
+        }
+
+        .caloriePercentage {
+            margin: 4px 0 0;
+            font-size: 12px; 
+            color: #6b7280;
+            width: fit-content;
+        }
+
+        .barWrapper {
+            background: #e5e7eb; 
+            border-radius: 999px; 
+            height: 10px; 
+            overflow: hidden;
+
+            .progressBar {
+                height: 100%; 
+                border-radius: 999px; 
+                transition: width 0.4s;
+            }
+        }
+    }
+}
+
+#planBreakdownSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
 }
 
 #groceryList {
     margin-top: 10px;
     border: 2px solid black;
+    width: 60%;
+}
+
+.totalNutritionChart {
+    align-self: center;
+    margin: 25px 0px 40px 0px;
+    width: 350px;
+    height: 350px;
 }
 
 button {
@@ -91,7 +165,11 @@ button {
     }
 
     .dayCard {
-        max-width: 250px;
+        max-width: 350px;
+    }
+
+    .chartRow {
+        gap: 10px;
     }
 }
 
