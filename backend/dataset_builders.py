@@ -281,8 +281,7 @@ def build_cuisine_dataset():
 def build_quick_meals_dataset():
     """
     Meals under 20 minutes. Users with tight cook-time constraints often end
-    up with very few valid candidates from the other builders — this fills
-    that gap.
+    up with very few valid candidates from the other builders.
     """
     buckets = [
         {"maxReadyTime": 20, "type": meal_type}
@@ -306,6 +305,8 @@ def build_budget_dataset():
     print("Building budget meals dataset...")
     return run_builder(buckets, batch_size=25)
 
+# to run just this file, use:
+# python -m backend.dataset_builders
 
 if __name__ == "__main__":
     build_balanced_dataset()

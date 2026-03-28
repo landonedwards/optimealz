@@ -3,9 +3,10 @@ from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 from pydantic import BaseModel, Field
 import os
-from typing import Optional, List, Any
+from typing import Optional
 from .recipes import RECIPES
-from .planner import build_meal_plan, aggregate_ingredients
+from .planner import build_meal_plan
+from .ingredients import aggregate_ingredients
 from .models import Ingredient
 
 load_dotenv()

@@ -14,10 +14,27 @@ function renderGroceryList(data) {
   groceryDiv.innerHTML = "<h2>Grocery List</h2>";
 
   data.grocery_list.forEach(item => {
-    const listItem = document.createElement("p");
-    listItem.textContent = `${item.name}: ${item.amount} ${item.unit}`;
-    groceryDiv.appendChild(listItem);
+    const wrapper = document.createElement("div");
+    wrapper.classList.add("groceryItem");
+
+    const checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.id = `ingredient-${item.name}-${item.unit}`;  // links the label to the checkbox
+
+    const label = document.createElement("label");
+    label.htmlFor = `ingredient-${item.name}-${item.unit}`; // clicking the label toggles the checkbox
+    label.textContent = `${item.name}: ${item.amount} ${item.unit}`;
+
+    wrapper.appendChild(checkbox);
+    wrapper.appendChild(label);
+    groceryDiv.appendChild(wrapper);
   });
+
+  // add total cost for all ingredients at bottom of grocery list
+  const groceryTotal = document.createElement("div");
+  groceryTotal.classList.add("groceryTotal");
+  groceryTotal.innerHTML = `<hr> <strong>Total:</strong> $${data.totals.cost.toFixed(2)}`;
+  groceryDiv.appendChild(groceryTotal);
 }
 
 function renderDayCharts(dayCard, meals, day, dailyCalorieTarget) {
@@ -46,7 +63,7 @@ function renderDayCharts(dayCard, meals, day, dailyCalorieTarget) {
   progressWrapper.classList.add("progressWrapper");
 
   const percentage = dailyCalorieTarget
-    ? Math.min(Math.round((dayCalories / dailyCalorieTarget) * 100))
+    ? Math.round((dayCalories / dailyCalorieTarget) * 100)
     : 0;
 
   const barColor = percentage >= 90 ? "#86efac" : percentage >= 60 ? "#fbbf24" : "#f97316";
@@ -206,6 +223,9 @@ function renderPlan(data, dailyCalorieTarget) {
 
     dayCard.innerHTML = `<h2>${day}</h2>`;
 
+    let mealsTotal = 0;
+    let cookTimeTotal = 0;
+
     meals.forEach(meal => {
       const mealDiv = document.createElement("div");
       mealDiv.classList.add("meal");
@@ -219,10 +239,24 @@ function renderPlan(data, dailyCalorieTarget) {
           Cook Time: ${meal.cook_time} min | 
           Cost: $${meal.cost.toFixed(2)}
         `;
+
+        // ensures meal cost is a number
+        mealsTotal += Number(meal.cost);
+        cookTimeTotal += Number(meal.cook_time);
       }
 
       dayCard.appendChild(mealDiv);
     });
+
+    const totalsContainer = document.createElement("div");
+    totalsContainer.classList.add("totalsContainer");
+    totalsContainer.innerHTML = `
+    <hr>
+    <p><strong>Total Cost:</strong> <span>$${mealsTotal.toFixed(2)}</span></p>
+    <p><strong>Total Cook Time:</strong> <span>${cookTimeTotal} mins</span></p>
+    `;
+
+    dayCard.appendChild(totalsContainer);
 
     // add divider section between meal info and nutrient info
     const sectionBreak = document.createElement("div");
