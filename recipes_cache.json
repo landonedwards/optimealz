@@ -44025,5 +44025,8013 @@
       "gluten-free",
       "dairy-free"
     ]
+  },
+  {
+    "name": "Colorful Tomato and Spinach Seafood Pasta",
+    "cook_time": 20,
+    "cost": 3.9638,
+    "source_url": "https://www.foodista.com/recipe/CTD7FW43/colorful-tomato-and-spinach-seafood-pasta",
+    "ingredients": [
+      {
+        "name": "chicken broth",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "cod",
+        "amount": 8.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "flour",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "garlic",
+        "amount": 2.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "olive oil",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "parmesan cheese",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "roma tomatoes",
+        "amount": 2.0,
+        "unit": "large"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "shallot",
+        "amount": 1.0,
+        "unit": "large"
+      },
+      {
+        "name": "spinach",
+        "amount": 4.0,
+        "unit": "cups"
+      },
+      {
+        "name": "white wine",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "pasta",
+        "amount": 4.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "to)",
+        "amount": 0.25,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 469.62,
+      "protein": 34.36,
+      "carbs": 55.44,
+      "fat": 2.17
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Flank Steak With Garlicky Mediterranean Salad",
+    "cook_time": 15,
+    "cost": 5.837899999999999,
+    "source_url": "https://www.foodista.com/recipe/DRSBMGKW/flank-steak-with-garlicky-mediterranean-salad",
+    "ingredients": [
+      {
+        "name": "balsamic vinegar",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "feta",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "flank steak",
+        "amount": 8.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "garlic",
+        "amount": 1.0,
+        "unit": "clove"
+      },
+      {
+        "name": "grill seasoning",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "lemon zest",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "salad greens",
+        "amount": 4.0,
+        "unit": "cups"
+      },
+      {
+        "name": "mushroom",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "olive oil",
+        "amount": 0.5,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "olives",
+        "amount": 10.0,
+        "unit": "medium"
+      },
+      {
+        "name": "oregano",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "bell pepper",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "onion",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "pepper flakes",
+        "amount": 1.0,
+        "unit": "pinch"
+      },
+      {
+        "name": "roma tomato",
+        "amount": 2.0,
+        "unit": "large"
+      },
+      {
+        "name": "salt",
+        "amount": 2.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 394.18,
+      "protein": 37.37,
+      "carbs": 18.37,
+      "fat": 6.17
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Mediterranean-inspired Tuna Almond Whole-wheat Spaghetti",
+    "cook_time": 20,
+    "cost": 3.2804,
+    "source_url": "https://www.foodista.com/recipe/7W22YN8C/mediterranean-inspired-tuna-almond-whole-wheat-spaghetti",
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "amount": 4.0,
+        "unit": "oz"
+      },
+      {
+        "name": "chili oil",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "onion",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "tuna",
+        "amount": 5.0,
+        "unit": "oz"
+      },
+      {
+        "name": "almonds",
+        "amount": 0.5,
+        "unit": "oz"
+      },
+      {
+        "name": "parsley",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "lemon oil",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "chili flakes",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "parmesan",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "salt",
+        "amount": 1.0,
+        "unit": "pinch"
+      }
+    ],
+    "nutrition": {
+      "calories": 562.72,
+      "protein": 34.87,
+      "carbs": 46.91,
+      "fat": 7.49
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Super Easy Oven Baked Cod",
+    "cook_time": 20,
+    "cost": 4.4209,
+    "source_url": "https://maplewoodroad.com/super-easy-oven-baked-cod/",
+    "ingredients": [
+      {
+        "name": "cod fillets",
+        "amount": 12.0,
+        "unit": "oz"
+      },
+      {
+        "name": "penne pasta",
+        "amount": 8.0,
+        "unit": "oz"
+      },
+      {
+        "name": "lemon",
+        "amount": 0.25,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "amount": 4.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "cherry tomatoes",
+        "amount": 1.0,
+        "unit": "c"
+      },
+      {
+        "name": "capers",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "anchovy",
+        "amount": 1.0,
+        "unit": "fillet"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "thyme",
+        "amount": 4.0,
+        "unit": "sprigs"
+      },
+      {
+        "name": "maldon sea salt",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "pepper",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "parsley",
+        "amount": 2.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 717.53,
+      "protein": 47.07,
+      "carbs": 86.69,
+      "fat": 2.54
+    },
+    "dietary_tags": [
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Wasabi & Honey Glazed-Salmon",
+    "cook_time": 20,
+    "cost": 5.0832,
+    "source_url": "https://www.foodista.com/recipe/LFLJWRX8/wasabi-honey-glazed-salmon",
+    "ingredients": [
+      {
+        "name": "ginger root",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "honey",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "mirin",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "rice vinegar",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "salmon fillets",
+        "amount": 12.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "wasabi paste",
+        "amount": 4.0,
+        "unit": "teaspoons"
+      }
+    ],
+    "nutrition": {
+      "calories": 341.08,
+      "protein": 35.05,
+      "carbs": 20.23,
+      "fat": 1.67
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Ground Pork Ramen",
+    "cook_time": 20,
+    "cost": 1.1973,
+    "source_url": "https://maplewoodroad.com/ground-pork-ramen/",
+    "ingredients": [
+      {
+        "name": "ramen",
+        "amount": 9.0,
+        "unit": "oz"
+      },
+      {
+        "name": "vegetable oil",
+        "amount": 2.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "ground pork",
+        "amount": 1.0,
+        "unit": "lb"
+      },
+      {
+        "name": "celery",
+        "amount": 4.0,
+        "unit": "stalks"
+      },
+      {
+        "name": "garlic",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "oyster sauce",
+        "amount": 3.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 3.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "chili paste",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "cilantro",
+        "amount": 1.0,
+        "unit": "c"
+      },
+      {
+        "name": "lime wedges",
+        "amount": 4.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 548.25,
+      "protein": 26.76,
+      "carbs": 20.04,
+      "fat": 10.96
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Tuna Avocado Salad",
+    "cook_time": 15,
+    "cost": 1.8381999999999998,
+    "source_url": "https://www.foodista.com/recipe/YN7B665L/tuna-avocado-salad",
+    "ingredients": [
+      {
+        "name": "avocado",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "tuna",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "tomato",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "mayonnaise",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "celery",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "lettuce leaves",
+        "amount": 3.0,
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "amount": 2.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 319.94,
+      "protein": 18.32,
+      "carbs": 9.65,
+      "fat": 3.17
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Simple Poached Egg Dinner",
+    "cook_time": 20,
+    "cost": 3.4753,
+    "source_url": "https://www.foodista.com/recipe/KBGV6PWC/choice-eggs",
+    "ingredients": [
+      {
+        "name": "full baby spinach",
+        "amount": 1.0,
+        "unit": "package"
+      },
+      {
+        "name": "bacon",
+        "amount": 4.0,
+        "unit": "slices"
+      },
+      {
+        "name": "pasteurized eggs",
+        "amount": 4.0,
+        "unit": "large"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "onion or",
+        "amount": 1.0,
+        "unit": "small"
+      },
+      {
+        "name": "salt & pepper",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "vinegar",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      }
+    ],
+    "nutrition": {
+      "calories": 538.74,
+      "protein": 23.54,
+      "carbs": 14.33,
+      "fat": 11.0
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Sprouted Grain Chicken Pesto Sandwich",
+    "cook_time": 20,
+    "cost": 4.203,
+    "source_url": "https://www.foodista.com/recipe/TWQTLC6P/sprouted-grain-chicken-pesto-sandwich",
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "amount": 1.5,
+        "unit": "pounds"
+      },
+      {
+        "name": "pesto sauce",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "greek yogurt",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "sun-dried tomatoes",
+        "amount": 6.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "lettuce",
+        "amount": 1.0,
+        "unit": "head"
+      },
+      {
+        "name": "sprouted grain bread",
+        "amount": 12.0,
+        "unit": "slices"
+      }
+    ],
+    "nutrition": {
+      "calories": 545.69,
+      "protein": 40.75,
+      "carbs": 40.67,
+      "fat": 3.65
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Cashew Nut Chicken",
+    "cook_time": 20,
+    "cost": 1.9383000000000001,
+    "source_url": "https://www.foodista.com/recipe/7YL4LGLJ/cashew-nut-chicken",
+    "ingredients": [
+      {
+        "name": "carrots",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "cashew nuts",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "heart celery",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "chicken breasts",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "chili flakes",
+        "amount": 6.0,
+        "unit": "servings"
+      },
+      {
+        "name": "chili paste",
+        "amount": 1.5,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "rice",
+        "amount": 6.0,
+        "unit": "servings"
+      },
+      {
+        "name": "garlic",
+        "amount": 4.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "mushroom",
+        "amount": 8.0,
+        "unit": "oz"
+      },
+      {
+        "name": "onion",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "oyster sauce",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "peppers",
+        "amount": 6.0,
+        "unit": "servings"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "sugar",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "vegetable oil",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "vinegar",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 390.18,
+      "protein": 25.15,
+      "carbs": 37.5,
+      "fat": 2.64
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Green Salad With Fresh Orange Juice Dressing",
+    "cook_time": 15,
+    "cost": 2.7889999999999997,
+    "source_url": "https://www.foodista.com/recipe/72TL7P4J/green-salad-with-fresh-orange-juice-dressing",
+    "ingredients": [
+      {
+        "name": "carrot",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "hardboiled eggs",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "granulated sugar",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "apple",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "ground pepper",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "jicama",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "lime",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "olive oil",
+        "amount": 4.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "oranges",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "romaine lettuce",
+        "amount": 1.0,
+        "unit": "head"
+      },
+      {
+        "name": "sea salt",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "tomato",
+        "amount": 1.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 559.77,
+      "protein": 13.02,
+      "carbs": 41.05,
+      "fat": 5.71
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Instant Pot Chili Mac",
+    "cook_time": 14,
+    "cost": 2.5378,
+    "source_url": "https://www.pinkwhen.com/instant-pot-chili-mac/",
+    "ingredients": [
+      {
+        "name": "olive oil",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "ground beef",
+        "amount": 1.0,
+        "unit": "lb"
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": "medium"
+      },
+      {
+        "name": "bell pepper",
+        "amount": 1.0,
+        "unit": "medium"
+      },
+      {
+        "name": "cayenne pepper",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "garlic powder",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "cumin",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "chili powder",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "pepper",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "pepper",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "oregano",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "chicken broth",
+        "amount": 3.0,
+        "unit": "cups"
+      },
+      {
+        "name": "tomatoes",
+        "amount": 28.0,
+        "unit": "oz"
+      },
+      {
+        "name": "kidney beans",
+        "amount": 14.0,
+        "unit": "oz"
+      },
+      {
+        "name": "monterrey jack cheese",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "elbow macaroni",
+        "amount": 2.0,
+        "unit": "cups"
+      }
+    ],
+    "nutrition": {
+      "calories": 565.8,
+      "protein": 38.84,
+      "carbs": 51.03,
+      "fat": 9.55
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Tex-Mex Burger",
+    "cook_time": 15,
+    "cost": 3.3983,
+    "source_url": "https://www.foodista.com/recipe/NSYCCHLT/tex-mex-burger",
+    "ingredients": [
+      {
+        "name": "avocado",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "chili powder",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "cilantro",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "cumin",
+        "amount": 2.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground beef",
+        "amount": 2.0,
+        "unit": "lb"
+      },
+      {
+        "name": "hamburger buns",
+        "amount": 4.0,
+        "unit": ""
+      },
+      {
+        "name": "paprika",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "pepper",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "pepper jack cheese",
+        "amount": 4.0,
+        "unit": "Slices"
+      },
+      {
+        "name": "onion",
+        "amount": 8.0,
+        "unit": "slices"
+      },
+      {
+        "name": "salsa",
+        "amount": 8.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "salt",
+        "amount": 1.0,
+        "unit": "tsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 884.46,
+      "protein": 50.53,
+      "carbs": 26.32,
+      "fat": 22.92
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Simple Parmesan Chili Pasta",
+    "cook_time": 15,
+    "cost": 1.2011,
+    "source_url": "https://www.foodista.com/recipe/QMQVV7MR/simple-parmesan-chili-pasta",
+    "ingredients": [
+      {
+        "name": "penne pasta",
+        "amount": 450.0,
+        "unit": "g"
+      },
+      {
+        "name": "parmesan",
+        "amount": 115.0,
+        "unit": "g"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": 6.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "chili flakes to your taste",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "salt",
+        "amount": 4.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 721.35,
+      "protein": 25.22,
+      "carbs": 81.63,
+      "fat": 7.98
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Pasta With Feta Cheese And Asparagus",
+    "cook_time": 20,
+    "cost": 3.8267,
+    "source_url": "https://maplewoodroad.com/pasta-with-feta-cheese-and-asparagus/",
+    "ingredients": [
+      {
+        "name": "linguine",
+        "amount": 8.0,
+        "unit": "oz"
+      },
+      {
+        "name": "asparagus",
+        "amount": 0.5,
+        "unit": "lb"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "freshly cracked pepper",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "garlic",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "thyme",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "oregano",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "lemon zest",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "pepper flakes",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "feta cheese",
+        "amount": 6.0,
+        "unit": "oz"
+      },
+      {
+        "name": "reserved pasta water",
+        "amount": 0.25,
+        "unit": "c"
+      },
+      {
+        "name": "flat-leaf parsley",
+        "amount": 2.0,
+        "unit": "Tbsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 805.74,
+      "protein": 29.94,
+      "carbs": 88.31,
+      "fat": 13.65
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Smoked Salmon & Ricotta Wraps",
+    "cook_time": 10,
+    "cost": 2.4488,
+    "source_url": "https://www.foodista.com/recipe/XKTZLGJY/sophies-smoked-salmon-ricotta-wraps",
+    "ingredients": [
+      {
+        "name": "arugula leaves",
+        "amount": 2.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "basil leaves",
+        "amount": 12.0,
+        "unit": ""
+      },
+      {
+        "name": "sheep ricotta",
+        "amount": 8.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "salmon",
+        "amount": 7.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "tortilla wraps",
+        "amount": 4.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 205.87,
+      "protein": 15.31,
+      "carbs": 14.99,
+      "fat": 3.84
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Instant Pot Hawaiian Chicken",
+    "cook_time": 18,
+    "cost": 2.3534,
+    "source_url": "https://www.pinkwhen.com/instant-pot-hawaiian-chicken-recipe/",
+    "ingredients": [
+      {
+        "name": "barbecue sauce",
+        "amount": 16.0,
+        "unit": "oz"
+      },
+      {
+        "name": "chicken breasts",
+        "amount": 3.0,
+        "unit": ""
+      },
+      {
+        "name": "dole pineapple tidbits",
+        "amount": 20.0,
+        "unit": "oz"
+      }
+    ],
+    "nutrition": {
+      "calories": 473.32,
+      "protein": 37.64,
+      "carbs": 65.46,
+      "fat": 1.02
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "How to Make the Perfect Instant Pot Chicken",
+    "cook_time": 18,
+    "cost": 1.5341999999999998,
+    "source_url": "https://www.pinkwhen.com/instant-pot-chicken/",
+    "ingredients": [
+      {
+        "name": "avocado oil",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "chicken breasts",
+        "amount": 3.0,
+        "unit": ""
+      },
+      {
+        "name": "bell pepper",
+        "amount": 6.0,
+        "unit": "servings"
+      },
+      {
+        "name": "himalayan salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "quality stock",
+        "amount": 1.0,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 156.78,
+      "protein": 24.73,
+      "carbs": 3.43,
+      "fat": 0.77
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "15-Minute Tamari Marinated Steak Salad",
+    "cook_time": 15,
+    "cost": 4.504700000000001,
+    "source_url": "https://www.foodista.com/recipe/FVTVH5K4/15-minute-tamari-marinated-steak-salad-recipe-paleo-keto",
+    "ingredients": [
+      {
+        "name": "salad greens",
+        "amount": 2.0,
+        "unit": "handfuls"
+      },
+      {
+        "name": "bell pepper",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "cherry tomatoes",
+        "amount": 8.0,
+        "unit": ""
+      },
+      {
+        "name": "radishes",
+        "amount": 4.0,
+        "unit": ""
+      },
+      {
+        "name": "olive oil",
+        "amount": 1.0,
+        "unit": "Tablespoon"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 0.5,
+        "unit": "Tablespoon"
+      },
+      {
+        "name": "salt",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "steak",
+        "amount": 0.5,
+        "unit": "lb"
+      },
+      {
+        "name": "tamari soy sauce",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "avocado oil",
+        "amount": 1.0,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 405.51,
+      "protein": 27.37,
+      "carbs": 6.48,
+      "fat": 8.95
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Farfalle With Sun-Dried Tomato Pesto, Sausage and Fennel",
+    "cook_time": 20,
+    "cost": 2.8924000000000003,
+    "source_url": "https://www.foodista.com/recipe/CSLBDWBS/farfalle-with-sun-dried-tomato-pesto-sausage-and-fennel",
+    "ingredients": [
+      {
+        "name": "farfalle",
+        "amount": 1.0,
+        "unit": "pound"
+      },
+      {
+        "name": "fennel bulb",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "parsley",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "garlic cloves",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "heavy cream",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "parmesan cheese",
+        "amount": 4.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "bell pepper",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "salt",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "sun-dried tomato pesto",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "turkey sausage",
+        "amount": 3.0,
+        "unit": "links"
+      },
+      {
+        "name": "vegetable stock",
+        "amount": 1.0,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 828.73,
+      "protein": 36.01,
+      "carbs": 92.68,
+      "fat": 11.45
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Blueberry, Persimmon Smoothie with Banana and Peanut Butter",
+    "cook_time": 5,
+    "cost": 1.2292,
+    "source_url": "https://www.foodista.com/recipe/SF7WGG4V/blueberry-persimmon-smoothie-with-banana-and-peanut-butter",
+    "ingredients": [
+      {
+        "name": "bananas",
+        "amount": 2.0,
+        "unit": "small"
+      },
+      {
+        "name": "creamy peanut butter",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "blueberries",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "persimmon",
+        "amount": 2.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 419.86,
+      "protein": 6.32,
+      "carbs": 83.96,
+      "fat": 1.74
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Sausage and Egg Breakfast Burrito",
+    "cook_time": 20,
+    "cost": 2.6027,
+    "source_url": "https://www.foodista.com/recipe/PL6NFVC3/sausage-and-egg-breakfast-burrito",
+    "ingredients": [
+      {
+        "name": "ground sausage",
+        "amount": 0.25,
+        "unit": "lb"
+      },
+      {
+        "name": "onion",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "garlic",
+        "amount": 3.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "peppers",
+        "amount": 3.0,
+        "unit": ""
+      },
+      {
+        "name": "jalapeno",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "kosher salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "oregano",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "ground pepper",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "flour tortilla",
+        "amount": 1.0,
+        "unit": "large"
+      },
+      {
+        "name": "egg",
+        "amount": 1.0,
+        "unit": "large"
+      },
+      {
+        "name": "butter",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "sriracha",
+        "amount": 1.0,
+        "unit": "serving"
+      }
+    ],
+    "nutrition": {
+      "calories": 713.66,
+      "protein": 27.05,
+      "carbs": 24.59,
+      "fat": 22.62
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Apple Pie Smoothie",
+    "cook_time": 5,
+    "cost": 1.0473999999999999,
+    "source_url": "https://www.foodista.com/recipe/HJPJ6D56/apple-pie-smoothie",
+    "ingredients": [
+      {
+        "name": "almond butter",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "apple sauce",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "vanilla yogurt",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "grain granola",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "ground cinnamon",
+        "amount": 0.25,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "honey",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "ice cubes",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "maple syrup",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "milk",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "delicious apple",
+        "amount": 1.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 238.43,
+      "protein": 7.23,
+      "carbs": 34.71,
+      "fat": 1.68
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Raspberry White Peach Smoothie",
+    "cook_time": 5,
+    "cost": 1.5566,
+    "source_url": "https://www.foodista.com/recipe/HDMKHGMR/raspberry-white-peach-smoothie",
+    "ingredients": [
+      {
+        "name": "ice cubes",
+        "amount": 5.0,
+        "unit": "large"
+      },
+      {
+        "name": "milk",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "peaches",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "greek yogurt",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "raspberries",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "sugar",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      }
+    ],
+    "nutrition": {
+      "calories": 249.85,
+      "protein": 10.3,
+      "carbs": 35.93,
+      "fat": 3.46
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Spinach Mushroom Omelette with Parmesan",
+    "cook_time": 20,
+    "cost": 1.421,
+    "source_url": "https://maplewoodroad.com/spinach-mushroom-omelette-with-parmesan/",
+    "ingredients": [
+      {
+        "name": "mushrooms",
+        "amount": 1.0,
+        "unit": "c"
+      },
+      {
+        "name": "baby spinach",
+        "amount": 2.0,
+        "unit": "c"
+      },
+      {
+        "name": "shallot",
+        "amount": 2.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "parmesan cheese",
+        "amount": 0.25,
+        "unit": "c"
+      },
+      {
+        "name": "eggs",
+        "amount": 3.0,
+        "unit": "large"
+      },
+      {
+        "name": "olive oil",
+        "amount": 0.5,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "butter",
+        "amount": 0.5,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 0.25,
+        "unit": "tsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 237.3,
+      "protein": 16.54,
+      "carbs": 3.82,
+      "fat": 6.75
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Delicious Limeade Triple Berry Smoothies",
+    "cook_time": 10,
+    "cost": 2.7914,
+    "source_url": "https://www.pinkwhen.com/triple-berry-limeade-smoothies/",
+    "ingredients": [
+      {
+        "name": "berries i used a blackberry",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "banana",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "vanilla greek yogurt",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "almond milk",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "limeade more",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "ground flax seed",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 258.25,
+      "protein": 7.71,
+      "carbs": 44.14,
+      "fat": 0.33
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Delicious Mango Pineapple Smoothie",
+    "cook_time": 10,
+    "cost": 0.9715,
+    "source_url": "https://www.pinkwhen.com/delicious-mango-pineapple-smoothie-recipe/",
+    "ingredients": [
+      {
+        "name": "coconut flakes",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "mango",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "maraschino cherry",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "milk",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "pineapple",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "vanilla greek yogurt",
+        "amount": 0.5,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 182.6,
+      "protein": 8.41,
+      "carbs": 16.73,
+      "fat": 6.95
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Scrambled Eggs On Toast With Smoked Salmon",
+    "cook_time": 10,
+    "cost": 1.9581,
+    "source_url": "https://www.foodista.com/recipe/BH4G26VF/scrambled-eggs-on-toast-with-smoked-salmon",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "bread",
+        "amount": 2.0,
+        "unit": "slices"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 1.0,
+        "unit": "pinch"
+      },
+      {
+        "name": "salmon",
+        "amount": 4.0,
+        "unit": "slices"
+      },
+      {
+        "name": "butter",
+        "amount": 1.0,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 231.75,
+      "protein": 16.36,
+      "carbs": 10.71,
+      "fat": 5.6
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Simple Protein Pancakes",
+    "cook_time": 20,
+    "cost": 0.5611999999999999,
+    "source_url": "https://www.pinkwhen.com/simple-protein-pancakes-recipe/",
+    "ingredients": [
+      {
+        "name": "almond milk",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "baking powder",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "banana",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "greek yogurt",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "oats",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "premier protein",
+        "amount": 0.33333334,
+        "unit": "cup"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1.0,
+        "unit": "tsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 146.62,
+      "protein": 12.6,
+      "carbs": 15.65,
+      "fat": 0.81
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Perfect Buttermilk Pancakes",
+    "cook_time": 15,
+    "cost": 0.6363,
+    "source_url": "https://www.pinkwhen.com/perfect-buttermilk-pancakes-recipe/",
+    "ingredients": [
+      {
+        "name": "baking powder",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "baking soda",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "buttermilk",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "fractionated coconut oil",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "coconut oil",
+        "amount": 6.0,
+        "unit": "servings"
+      },
+      {
+        "name": "egg",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "flour",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "granulated sugar",
+        "amount": 3.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.25,
+        "unit": "tsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 427.75,
+      "protein": 7.8,
+      "carbs": 41.11,
+      "fat": 20.86
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Good Old Fashioned Pancakes",
+    "cook_time": 16,
+    "cost": 0.363,
+    "source_url": "https://maplewoodroad.com/good-old-fashioned-pancakes/",
+    "ingredients": [
+      {
+        "name": "flour",
+        "amount": 2.0,
+        "unit": "c"
+      },
+      {
+        "name": "baking powder",
+        "amount": 2.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "granulated sugar",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "egg",
+        "amount": 1.0,
+        "unit": "large"
+      },
+      {
+        "name": "butter",
+        "amount": 3.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 2.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "milk",
+        "amount": 1.5,
+        "unit": "c"
+      }
+    ],
+    "nutrition": {
+      "calories": 263.64,
+      "protein": 7.42,
+      "carbs": 36.17,
+      "fat": 5.11
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "The Perfect Scrambled Eggs - Every Time",
+    "cook_time": 10,
+    "cost": 0.4919,
+    "source_url": "https://maplewoodroad.com/scrambled-eggs/",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "amount": 3.0,
+        "unit": "large"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "milk",
+        "amount": 2.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "butter",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 167.16,
+      "protein": 10.0,
+      "carbs": 1.24,
+      "fat": 6.27
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Whole Wheat Spaghetti with Basil Avocado Pesto",
+    "cook_time": 20,
+    "cost": 0.8856,
+    "source_url": "https://www.foodista.com/recipe/GYVS8LP3/oil-free-pesto-w-basil-avocado",
+    "ingredients": [
+      {
+        "name": "basil",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "avocado",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "amount": 2.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "cashew nuts",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "water",
+        "amount": 3.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "sea salt",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "spaghetti",
+        "amount": 8.0,
+        "unit": "oz"
+      }
+    ],
+    "nutrition": {
+      "calories": 285.71,
+      "protein": 10.55,
+      "carbs": 45.7,
+      "fat": 1.31
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Massaged Kale Salad with Pine Nuts & Dried Cranberries",
+    "cook_time": 15,
+    "cost": 1.6912,
+    "source_url": "https://www.foodista.com/recipe/HMJJ8BBC/massaged-kale-salad-with-pine-nuts-dried-cranberries",
+    "ingredients": [
+      {
+        "name": "curly kale",
+        "amount": 1.0,
+        "unit": "bunch"
+      },
+      {
+        "name": "lacinato kale",
+        "amount": 1.0,
+        "unit": "bunch"
+      },
+      {
+        "name": "olive oil",
+        "amount": 6.0,
+        "unit": "servings"
+      },
+      {
+        "name": "salt",
+        "amount": 6.0,
+        "unit": "servings"
+      },
+      {
+        "name": "pine nuts",
+        "amount": 0.33333334,
+        "unit": "cup"
+      },
+      {
+        "name": "cranberries",
+        "amount": 0.33333334,
+        "unit": "cup"
+      },
+      {
+        "name": "parmesan cheese",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "pepper",
+        "amount": 6.0,
+        "unit": "servings"
+      },
+      {
+        "name": "dijon mustard",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "oregano leaves",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "pepper flakes",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "maple syrup",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "garlic",
+        "amount": 3.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": 0.33333334,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 364.59,
+      "protein": 5.08,
+      "carbs": 10.43,
+      "fat": 4.83
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Raspberry Arugula Side Salad",
+    "cook_time": 10,
+    "cost": 1.8256000000000001,
+    "source_url": "https://www.foodista.com/recipe/GR74D5VW/raspberry-arugula-salad-recipe-paleo-keto-aip",
+    "ingredients": [
+      {
+        "name": "arugula",
+        "amount": 2.0,
+        "unit": "oz"
+      },
+      {
+        "name": "baby spinach",
+        "amount": 1.0,
+        "unit": "oz"
+      },
+      {
+        "name": "cucumber",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "cilantro leaves",
+        "amount": 10.0,
+        "unit": ""
+      },
+      {
+        "name": "olives",
+        "amount": 14.0,
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "olive oil",
+        "amount": 1.0,
+        "unit": "Tablespoon"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1.0,
+        "unit": "Tablespoon"
+      },
+      {
+        "name": "raspberries",
+        "amount": 14.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 142.06,
+      "protein": 2.72,
+      "carbs": 4.46,
+      "fat": 1.59
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Colorful and Crunchy Pomegranate and Spinach Side Salad",
+    "cook_time": 15,
+    "cost": 1.0386,
+    "source_url": "https://www.foodista.com/recipe/7RC6J8DZ/colorful-and-crunchy-pomegranate-and-spinach-salad",
+    "ingredients": [
+      {
+        "name": "almonds",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "baby spinach",
+        "amount": 4.0,
+        "unit": "cups"
+      },
+      {
+        "name": "pomegranate balsamic vinegar",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "dijon mustard",
+        "amount": 0.5,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "green onion",
+        "amount": 4.0,
+        "unit": "small"
+      },
+      {
+        "name": "honey",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "olive oil",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "pomegranate seeds",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 4.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 115.92,
+      "protein": 2.82,
+      "carbs": 9.97,
+      "fat": 0.75
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Mango Blackberry Side Salad",
+    "cook_time": 5,
+    "cost": 1.6361,
+    "source_url": "https://www.foodista.com/recipe/7C2LWVVK/mango-blackberry-salad",
+    "ingredients": [
+      {
+        "name": "blackberries",
+        "amount": 6.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "mango",
+        "amount": 1.0,
+        "unit": "large"
+      },
+      {
+        "name": "lime zest",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "lime juice",
+        "amount": 1.5,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "mint",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 101.51,
+      "protein": 2.14,
+      "carbs": 18.05,
+      "fat": 0.11
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Mango Kiwi Salsa",
+    "cook_time": 20,
+    "cost": 1.1808,
+    "source_url": "https://www.foodista.com/recipe/63ZQP28L/mango-kiwi-salsa",
+    "ingredients": [
+      {
+        "name": "cilantro",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "garlic",
+        "amount": 2.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "jalapeno",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "juice of lime",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "kiwi",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "mango",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "bell pepper",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "onion",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "tomato",
+        "amount": 1.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 80.0,
+      "protein": 2.01,
+      "carbs": 15.45,
+      "fat": 0.12
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "No-Cook Refreshing Mint Avocado Chilled Soup",
+    "cook_time": 10,
+    "cost": 1.8194,
+    "source_url": "https://www.foodista.com/recipe/K6BCN6FG/no-cook-refreshing-mint-avocado-chilled-soup-paleo-keto-aip",
+    "ingredients": [
+      {
+        "name": "avocado",
+        "amount": 1.0,
+        "unit": "medium"
+      },
+      {
+        "name": "romaine lettuce leaves",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "coconut milk",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "lime juice",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "mint leaves",
+        "amount": 20.0,
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "amount": 2.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 397.09,
+      "protein": 5.04,
+      "carbs": 6.65,
+      "fat": 23.55
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Spanish Gazpacho Soup",
+    "cook_time": 10,
+    "cost": 1.2175,
+    "source_url": "https://www.foodista.com/recipe/J8FLJFS5/spanish-gazpacho-soup",
+    "ingredients": [
+      {
+        "name": "tomatoes",
+        "amount": 1.0,
+        "unit": "kg"
+      },
+      {
+        "name": "cucumber",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "bell pepper",
+        "amount": 1.0,
+        "unit": "medium size"
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": "small"
+      },
+      {
+        "name": "garlic",
+        "amount": 1.0,
+        "unit": "clove"
+      },
+      {
+        "name": "bread",
+        "amount": 2.0,
+        "unit": "slices"
+      },
+      {
+        "name": "water",
+        "amount": 200.0,
+        "unit": "ml"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2.0,
+        "unit": "Tablespoons"
+      },
+      {
+        "name": "vinegar",
+        "amount": 2.0,
+        "unit": "Tablespoons"
+      },
+      {
+        "name": "salt",
+        "amount": 4.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 169.75,
+      "protein": 4.64,
+      "carbs": 16.36,
+      "fat": 1.17
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Try This at Home - Tomato Gazpacho to Cool Off During the Dog Days of Summer",
+    "cook_time": 10,
+    "cost": 1.6074000000000002,
+    "source_url": "https://maplewoodroad.com/tomato-gazpacho/",
+    "ingredients": [
+      {
+        "name": "tomatoes",
+        "amount": 2.0,
+        "unit": "lbs"
+      },
+      {
+        "name": "cucumber",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "bell pepper",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "shallot",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "olive oil",
+        "amount": 0.5,
+        "unit": "c"
+      },
+      {
+        "name": "rice vinegar",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "baguette",
+        "amount": 3.0,
+        "unit": "slices"
+      },
+      {
+        "name": "cumin",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 2.0,
+        "unit": "tsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 365.44,
+      "protein": 5.26,
+      "carbs": 20.43,
+      "fat": 3.96
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Not Your Normal Seven Layer Dip",
+    "cook_time": 15,
+    "cost": 1.0456999999999999,
+    "source_url": "https://www.pinkwhen.com/not-your-normal-seven-layer-dip-recipe/",
+    "ingredients": [
+      {
+        "name": "avocado",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "canned tomatoes",
+        "amount": 10.0,
+        "unit": "oz"
+      },
+      {
+        "name": "cilantro flakes",
+        "amount": 12.0,
+        "unit": "servings"
+      },
+      {
+        "name": "chilis",
+        "amount": 4.0,
+        "unit": "oz"
+      },
+      {
+        "name": "guacamole",
+        "amount": 1.0,
+        "unit": "T"
+      },
+      {
+        "name": "lime",
+        "amount": 1.0,
+        "unit": "medium"
+      },
+      {
+        "name": "bell pepper",
+        "amount": 12.0,
+        "unit": "servings"
+      },
+      {
+        "name": "refried beans",
+        "amount": 12.0,
+        "unit": "servings"
+      },
+      {
+        "name": "mexican blend cheese",
+        "amount": 12.0,
+        "unit": "servings"
+      },
+      {
+        "name": "cream",
+        "amount": 12.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 162.8,
+      "protein": 6.81,
+      "carbs": 13.06,
+      "fat": 1.82
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "5-minute Ricotta Garlic Herb Dip",
+    "cook_time": 5,
+    "cost": 3.1411000000000002,
+    "source_url": "https://maplewoodroad.com/5-minute-ricotta-garlic-herb-dip/",
+    "ingredients": [
+      {
+        "name": "ricotta cheese",
+        "amount": 400.0,
+        "unit": "g"
+      },
+      {
+        "name": "greek yogurt",
+        "amount": 150.0,
+        "unit": "g"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "garlic",
+        "amount": 2.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "basil",
+        "amount": 1.0,
+        "unit": "c"
+      },
+      {
+        "name": "parsley",
+        "amount": 0.5,
+        "unit": "c"
+      },
+      {
+        "name": "sage",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.0,
+        "unit": "tsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 537.41,
+      "protein": 31.46,
+      "carbs": 11.3,
+      "fat": 18.72
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "How to Make Easy Cheesy Garlic Bread",
+    "cook_time": 15,
+    "cost": 0.7468,
+    "source_url": "https://www.pinkwhen.com/easy-cheesy-garlic-bread/",
+    "ingredients": [
+      {
+        "name": "bread this one is a vienna",
+        "amount": 1.0,
+        "unit": "loaf"
+      },
+      {
+        "name": "butter",
+        "amount": 2.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "mozzarella cheddar",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": 2.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "parsley",
+        "amount": 8.0,
+        "unit": "servings"
+      },
+      {
+        "name": "garlic",
+        "amount": 4.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "parmigiano reggiano",
+        "amount": 0.25,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 348.44,
+      "protein": 12.92,
+      "carbs": 37.92,
+      "fat": 5.45
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Brown Sugar Ham Glaze",
+    "cook_time": 7,
+    "cost": 3.9509,
+    "source_url": "https://maplewoodroad.com/brown-sugar-ham-glaze/",
+    "ingredients": [
+      {
+        "name": "ham",
+        "amount": 10.0,
+        "unit": "lb"
+      },
+      {
+        "name": "butter",
+        "amount": 4.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "brown sugar",
+        "amount": 1.0,
+        "unit": "c"
+      },
+      {
+        "name": "honey",
+        "amount": 0.25,
+        "unit": "c"
+      },
+      {
+        "name": "brown mustard",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "pineapple juice",
+        "amount": 0.5,
+        "unit": "c"
+      },
+      {
+        "name": "apple juice",
+        "amount": 0.25,
+        "unit": "c"
+      },
+      {
+        "name": "cinnamon",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground cloves",
+        "amount": 0.25,
+        "unit": "tsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 419.28,
+      "protein": 42.89,
+      "carbs": 15.43,
+      "fat": 5.33
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Instant Pot Black Bean Nachos",
+    "cook_time": 15,
+    "cost": 0.6664,
+    "source_url": "https://www.pinkwhen.com/instant-pot-black-bean-nachos/",
+    "ingredients": [
+      {
+        "name": "black beans from the pot",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "jalape\u00f1o",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "amount": 0.33333334,
+        "unit": "cup"
+      },
+      {
+        "name": "garlic",
+        "amount": 2.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "cilantro",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "cumin",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "cheddar cheese",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "lime",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "chips",
+        "amount": 4.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 249.6,
+      "protein": 14.91,
+      "carbs": 17.12,
+      "fat": 5.62
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Cheesy Cowboy Quesadillas",
+    "cook_time": 10,
+    "cost": 1.3127000000000002,
+    "source_url": "https://www.pinkwhen.com/cheesy-cowboy-quesadillas-recipe/",
+    "ingredients": [
+      {
+        "name": "bell pepper",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "butter",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "black beans",
+        "amount": 1.0,
+        "unit": "can"
+      },
+      {
+        "name": "cheese",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "chili powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "corn",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "cream cheese",
+        "amount": 4.0,
+        "unit": "oz"
+      },
+      {
+        "name": "cumin",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "garlic",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "onions",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "chicken",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "tortillas",
+        "amount": 4.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 516.15,
+      "protein": 27.02,
+      "carbs": 31.57,
+      "fat": 14.63
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Ginger Melon Side Salad",
+    "cook_time": 10,
+    "cost": 2.197,
+    "source_url": "https://www.foodista.com/recipe/VJBSNKJK/ginger-melon-salad-recipe-paleo-aip",
+    "ingredients": [
+      {
+        "name": "salad leaves",
+        "amount": 2.0,
+        "unit": "handfuls"
+      },
+      {
+        "name": "honeydew melon",
+        "amount": 0.5,
+        "unit": "small"
+      },
+      {
+        "name": "cucumber",
+        "amount": 0.5,
+        "unit": "small"
+      },
+      {
+        "name": "ginger",
+        "amount": 1.0,
+        "unit": "Tablespoon"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": 2.0,
+        "unit": "Tablespoons"
+      },
+      {
+        "name": "sea salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 254.0,
+      "protein": 2.54,
+      "carbs": 29.27,
+      "fat": 2.07
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Avocado Egg Salad",
+    "cook_time": 10,
+    "cost": 1.1944,
+    "source_url": "https://www.pinkwhen.com/avocado-egg-salad/",
+    "ingredients": [
+      {
+        "name": "hardboiled eggs",
+        "amount": 5.0,
+        "unit": ""
+      },
+      {
+        "name": "avocados",
+        "amount": 2.0,
+        "unit": "medium"
+      },
+      {
+        "name": "cilantro",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "olive oil based mayo",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1.0,
+        "unit": "tsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 320.48,
+      "protein": 9.9,
+      "carbs": 2.72,
+      "fat": 5.15
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Chunky Guacamole",
+    "cook_time": 15,
+    "cost": 0.5963,
+    "source_url": "https://www.foodista.com/recipe/SPDCFSKT/chunky-guacamole",
+    "ingredients": [
+      {
+        "name": "avocados",
+        "amount": 3.0,
+        "unit": ""
+      },
+      {
+        "name": "pico de gallo",
+        "amount": 1.0,
+        "unit": "package"
+      },
+      {
+        "name": "garlic salt",
+        "amount": 0.75,
+        "unit": "tsp"
+      },
+      {
+        "name": "lemon - juice",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 8.0,
+        "unit": "servings"
+      },
+      {
+        "name": "cilantro",
+        "amount": 8.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 121.49,
+      "protein": 1.52,
+      "carbs": 1.64,
+      "fat": 1.61
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Bone Broth Hummus",
+    "cook_time": 20,
+    "cost": 0.6790999999999999,
+    "source_url": "https://www.foodista.com/recipe/GSM8SW2P/bone-broth-hummus",
+    "ingredients": [
+      {
+        "name": "beef bone broth",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "garbanzo beans",
+        "amount": 1.0,
+        "unit": "can"
+      },
+      {
+        "name": "tahini",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "garlic clove",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "lemon juice",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "cumin",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "paprika",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "salt",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "olive oil",
+        "amount": 0.25,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 213.11,
+      "protein": 6.33,
+      "carbs": 9.55,
+      "fat": 2.16
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Easy Vegetable Fried Rice",
+    "cook_time": 20,
+    "cost": 0.636,
+    "source_url": "https://www.foodista.com/recipe/H78BYQPP/easy-vegetable-fried-rice",
+    "ingredients": [
+      {
+        "name": "broccoli",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "butter",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "carrots",
+        "amount": 0.33333334,
+        "unit": "cup"
+      },
+      {
+        "name": "rice",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "egg",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "amount": 1.0,
+        "unit": "clove"
+      },
+      {
+        "name": "ginger",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green beans",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "peas",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "sesame oil",
+        "amount": 1.5,
+        "unit": "tbsp"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "sugar",
+        "amount": 1.0,
+        "unit": "dash"
+      }
+    ],
+    "nutrition": {
+      "calories": 235.37,
+      "protein": 7.47,
+      "carbs": 27.41,
+      "fat": 3.03
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Arugula Citrus Salad with Chia Seed Apple Cider Vinaigrette",
+    "cook_time": 10,
+    "cost": 1.9866,
+    "source_url": "https://maplewoodroad.com/arugula-citrus-salad/",
+    "ingredients": [
+      {
+        "name": "ruby grapefruit",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "navel orange",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "mandarin",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "arugula",
+        "amount": 2.0,
+        "unit": "c"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amount": 0.33333334,
+        "unit": "c"
+      },
+      {
+        "name": "olive oil",
+        "amount": 0.6666667,
+        "unit": "c"
+      },
+      {
+        "name": "dijon mustard",
+        "amount": 2.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "chia seeds",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "honey",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "maldon sea salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.25,
+        "unit": "tsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 759.62,
+      "protein": 2.91,
+      "carbs": 18.54,
+      "fat": 10.21
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Halloumi, Blueberry & Spinach Salad",
+    "cook_time": 15,
+    "cost": 6.2845,
+    "source_url": "https://www.foodista.com/recipe/X4N7FNX8/halloumi-blueberry-spinach-salad",
+    "ingredients": [
+      {
+        "name": "halloumi cheese",
+        "amount": 250.0,
+        "unit": "g"
+      },
+      {
+        "name": "blueberries",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "spinach",
+        "amount": 30.0,
+        "unit": "g"
+      },
+      {
+        "name": "olive oil",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "lime",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "balsamic vinegar",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "salt",
+        "amount": 0.25,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.25,
+        "unit": "teaspoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 500.27,
+      "protein": 28.48,
+      "carbs": 9.89,
+      "fat": 22.25
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Fresh Tomato Mozzarella Side Salad",
+    "cook_time": 15,
+    "cost": 1.3384,
+    "source_url": "https://www.foodista.com/recipe/D2XV3M76/fresh-tomato-mozzarella-salad",
+    "ingredients": [
+      {
+        "name": "balsamic vinegar",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "basil leaves",
+        "amount": 4.0,
+        "unit": ""
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 8.0,
+        "unit": "servings"
+      },
+      {
+        "name": "bel gioioso mozzarella",
+        "amount": 16.0,
+        "unit": "oz"
+      },
+      {
+        "name": "6 roma tomatoes",
+        "amount": 4.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 212.09,
+      "protein": 13.16,
+      "carbs": 4.26,
+      "fat": 7.85
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Strawberry Toasted Pecan and Goat Cheese Salad",
+    "cook_time": 15,
+    "cost": 1.7601,
+    "source_url": "https://www.foodista.com/recipe/5GTNC5J2/strawberry-toasted-pecan-and-goat-cheese-salad",
+    "ingredients": [
+      {
+        "name": "butter lettuce",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "arugula",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "strawberries",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "goat cheese",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "butter",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "pecans",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "olive oil",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "balsamic vinegar",
+        "amount": 4.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 285.16,
+      "protein": 4.49,
+      "carbs": 5.64,
+      "fat": 5.42
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Quick and Easy Tomato Salad Recipe",
+    "cook_time": 10,
+    "cost": 2.0572999999999997,
+    "source_url": "https://www.pinkwhen.com/marinated-olive-and-grape-tomato-salad/",
+    "ingredients": [
+      {
+        "name": "olives",
+        "amount": 20.0,
+        "unit": "oz"
+      },
+      {
+        "name": "grape tomatoes",
+        "amount": 1.0,
+        "unit": "pint"
+      },
+      {
+        "name": "olive oil",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "garlic",
+        "amount": 2.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "purple onion",
+        "amount": 1.0,
+        "unit": "small"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "parmesan cheese",
+        "amount": 1.0,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 244.18,
+      "protein": 2.26,
+      "carbs": 4.73,
+      "fat": 3.33
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Braised Pork: Filipino Humba",
+    "cook_time": 45,
+    "cost": 1.6032,
+    "source_url": "https://www.foodista.com/recipe/43GDRPKX/braised-pork-filipino-humba",
+    "ingredients": [
+      {
+        "name": "pork belly",
+        "amount": 0.5,
+        "unit": "gram"
+      },
+      {
+        "name": "pork butt shoulder",
+        "amount": 0.5,
+        "unit": "gram"
+      },
+      {
+        "name": "garlic",
+        "amount": 1.0,
+        "unit": "head"
+      },
+      {
+        "name": "vinegar",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "brown sugar",
+        "amount": 4.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 4.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "bay leaf",
+        "amount": 2.0,
+        "unit": "pieces"
+      },
+      {
+        "name": "rice wine",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "star anise",
+        "amount": 2.0,
+        "unit": "pieces"
+      },
+      {
+        "name": "oregano",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "fermented black beans",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "peanuts",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "olive oil",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "paprika",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "water",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "fried bananas",
+        "amount": 4.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 476.45,
+      "protein": 16.66,
+      "carbs": 43.74,
+      "fat": 3.88
+    },
+    "dietary_tags": [
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Mongolian Beef",
+    "cook_time": 45,
+    "cost": 3.1511,
+    "source_url": "https://www.foodista.com/recipe/LFPXPS6R/mongolian-beef",
+    "ingredients": [
+      {
+        "name": "peanut oil",
+        "amount": 4.0,
+        "unit": "cups"
+      },
+      {
+        "name": "green onion tops",
+        "amount": 15.0,
+        "unit": ""
+      },
+      {
+        "name": "ginger",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "sirloin steak",
+        "amount": 1.0,
+        "unit": "pound"
+      },
+      {
+        "name": "water chestnut flour",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "egg whites",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "pinch salt",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "cornstarch paste",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "chili paste",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "chicken stock",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "pinch sugar",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "sherry",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 474.47,
+      "protein": 19.51,
+      "carbs": 6.11,
+      "fat": 9.6
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Asian Chicken Noodle Soup",
+    "cook_time": 45,
+    "cost": 0.7408,
+    "source_url": "http://www.foodista.com/recipe/BDMTPHK2/asian-chicken-noodle-soup",
+    "ingredients": [
+      {
+        "name": "carrot",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "celery stick",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "chicken drumsticks and chicken thighs",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "cinnamon stick",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "coriander leaves",
+        "amount": 1.0,
+        "unit": "handful"
+      },
+      {
+        "name": "ginger",
+        "amount": 1.0,
+        "unit": "inch"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "potato",
+        "amount": 1.0,
+        "unit": "small"
+      },
+      {
+        "name": "rice noodles",
+        "amount": 50.0,
+        "unit": "grams"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "shallots",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "star anise",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "water",
+        "amount": 3.0,
+        "unit": "pints"
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 295.71,
+      "protein": 12.94,
+      "carbs": 22.21,
+      "fat": 3.51
+    },
+    "dietary_tags": [
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Crispy-Crowned Guacamole Fish Fillets",
+    "cook_time": 30,
+    "cost": 9.8957,
+    "source_url": "http://spoonacular.com/-1384600491288",
+    "ingredients": [
+      {
+        "name": "avocados",
+        "amount": 3.0,
+        "unit": ""
+      },
+      {
+        "name": "bell peppers",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "cherry tomatoes",
+        "amount": 6.0,
+        "unit": ""
+      },
+      {
+        "name": "cilantro",
+        "amount": 2.0,
+        "unit": "sprigs"
+      },
+      {
+        "name": "tilapia fish fillets",
+        "amount": 650.0,
+        "unit": "g"
+      },
+      {
+        "name": "garlic",
+        "amount": 2.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "onion",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "bell pepper",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "salt",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "tabasco sauce",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "tortilla chips",
+        "amount": 60.0,
+        "unit": "g"
+      }
+    ],
+    "nutrition": {
+      "calories": 1011.48,
+      "protein": 76.36,
+      "carbs": 36.58,
+      "fat": 9.3
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Blackberry Grilled Cheese Sandwich",
+    "cook_time": 45,
+    "cost": 2.0777,
+    "source_url": "http://www.foodista.com/recipe/67KGYH8W/blackberry-grilled-cheese-sandwich",
+    "ingredients": [
+      {
+        "name": "butter",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "bread",
+        "amount": 4.0,
+        "unit": "slices"
+      },
+      {
+        "name": "green onions",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "muenster cheese",
+        "amount": 2.0,
+        "unit": "slices"
+      },
+      {
+        "name": "blackberry preserves",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "walnuts",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      }
+    ],
+    "nutrition": {
+      "calories": 609.01,
+      "protein": 22.07,
+      "carbs": 78.33,
+      "fat": 9.21
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Cheesy Tortellini Casserole",
+    "cook_time": 45,
+    "cost": 3.5646,
+    "source_url": "https://www.foodista.com/recipe/2D4LM4SP/cheesy-tortellini-casserole",
+    "ingredients": [
+      {
+        "name": "tortellini",
+        "amount": 1.0,
+        "unit": "pound"
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": "medium"
+      },
+      {
+        "name": "garlic cloves",
+        "amount": 3.0,
+        "unit": ""
+      },
+      {
+        "name": "bell peppers",
+        "amount": 4.0,
+        "unit": ""
+      },
+      {
+        "name": "olive oil",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "oregano",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "cherry tomatoes",
+        "amount": 7.0,
+        "unit": "oz"
+      },
+      {
+        "name": "feta",
+        "amount": 4.0,
+        "unit": "oz"
+      },
+      {
+        "name": "cheese",
+        "amount": 4.5,
+        "unit": "oz"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "basil",
+        "amount": 4.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 641.36,
+      "protein": 30.42,
+      "carbs": 55.97,
+      "fat": 12.21
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Slow Cooker Beef Barley Soup",
+    "cook_time": 45,
+    "cost": 1.1047,
+    "source_url": "http://www.foodista.com/recipe/Z8FVVGN5/slow-cooker-beef-barley-soup",
+    "ingredients": [
+      {
+        "name": "beef bouillon",
+        "amount": 4.0,
+        "unit": "packets"
+      },
+      {
+        "name": "tomato sauce",
+        "amount": 8.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "carrots",
+        "amount": 5.0,
+        "unit": ""
+      },
+      {
+        "name": "chuck roast",
+        "amount": 2.0,
+        "unit": "pounds"
+      },
+      {
+        "name": "parsley",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "ground pepper",
+        "amount": 12.0,
+        "unit": "servings"
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "pearl barley",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "water",
+        "amount": 5.0,
+        "unit": "cups"
+      }
+    ],
+    "nutrition": {
+      "calories": 200.78,
+      "protein": 16.47,
+      "carbs": 11.1,
+      "fat": 3.87
+    },
+    "dietary_tags": [
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Game Day Jerk Wings",
+    "cook_time": 45,
+    "cost": 2.2148,
+    "source_url": "https://www.foodista.com/recipe/HZFC3WHJ/game-day-jerk-wings",
+    "ingredients": [
+      {
+        "name": "chicken wings",
+        "amount": 60.0,
+        "unit": "jumbo"
+      },
+      {
+        "name": "pasilla chile powder",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "ground pepper",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "ground cayenne pepper",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "jamaican ground allspice",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "pickapeppa sauce",
+        "amount": 1.0,
+        "unit": "bottle"
+      },
+      {
+        "name": "butter",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "honey",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "tabasco sauce",
+        "amount": 5.0,
+        "unit": "dashes"
+      },
+      {
+        "name": "pepper flakes",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "carrot and celery sticks",
+        "amount": 1.0,
+        "unit": "sticks"
+      },
+      {
+        "name": "cheese dressing",
+        "amount": 10.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 721.06,
+      "protein": 54.06,
+      "carbs": 7.93,
+      "fat": 15.19
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Steamy Creamy Mushroom Risotto",
+    "cook_time": 35,
+    "cost": 2.9407,
+    "source_url": "http://spoonacular.com/-1384385156959",
+    "ingredients": [
+      {
+        "name": "butter",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "chicken",
+        "amount": 300.0,
+        "unit": "g"
+      },
+      {
+        "name": "chicken broth",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "mushrooms",
+        "amount": 150.0,
+        "unit": "g"
+      },
+      {
+        "name": "olive oil",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "onion",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "parmesan",
+        "amount": 4.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "bell pepper",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "rice",
+        "amount": 240.0,
+        "unit": "g"
+      },
+      {
+        "name": "salt",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "water",
+        "amount": 500.0,
+        "unit": "ml"
+      },
+      {
+        "name": "white wine",
+        "amount": 100.0,
+        "unit": "ml"
+      }
+    ],
+    "nutrition": {
+      "calories": 956.59,
+      "protein": 29.01,
+      "carbs": 102.77,
+      "fat": 11.55
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Tonkatsu",
+    "cook_time": 45,
+    "cost": 0.8726999999999999,
+    "source_url": "http://www.foodista.com/recipe/7KJHTC5T/tonkatsu",
+    "ingredients": [
+      {
+        "name": "egg",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "flour",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "tonkatsu sauce",
+        "amount": 8.0,
+        "unit": "servings"
+      },
+      {
+        "name": "panko bread crumbs",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.25,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "pork chops",
+        "amount": 4.0,
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "amount": 8.0,
+        "unit": "servings"
+      },
+      {
+        "name": "vegetable oil",
+        "amount": 8.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 166.88,
+      "protein": 16.05,
+      "carbs": 5.75,
+      "fat": 2.29
+    },
+    "dietary_tags": [
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Pan-Roasted Beef and Sesame Seeds",
+    "cook_time": 45,
+    "cost": 1.7205000000000001,
+    "source_url": "http://www.foodista.com/recipe/LJXRRDC3/pan-roasted-beef-and-sesame-seeds",
+    "ingredients": [
+      {
+        "name": "fish sauce",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "ginger",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "garlic",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "beef",
+        "amount": 200.0,
+        "unit": "grams"
+      },
+      {
+        "name": "sesame seeds",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "vegetable oil",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "ground",
+        "amount": 0.125,
+        "unit": "teaspoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 309.62,
+      "protein": 23.41,
+      "carbs": 1.94,
+      "fat": 4.89
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Instant Pot Black Bean Soup",
+    "cook_time": 60,
+    "cost": 2.059,
+    "source_url": "https://spoonacular.com/site-1574943098320",
+    "ingredients": [
+      {
+        "name": "black beans",
+        "amount": 2.5,
+        "unit": "cups"
+      },
+      {
+        "name": "bell pepper",
+        "amount": 3.0,
+        "unit": ""
+      },
+      {
+        "name": "onions",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "vegetable broth",
+        "amount": 4.5,
+        "unit": "cups"
+      },
+      {
+        "name": "water",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "cumin",
+        "amount": 2.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "paprika",
+        "amount": 2.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "juice of lime",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "cheddar cheese",
+        "amount": 2.0,
+        "unit": "oz"
+      },
+      {
+        "name": "canola oil",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "hot sauce",
+        "amount": 4.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 297.55,
+      "protein": 14.67,
+      "carbs": 28.71,
+      "fat": 3.24
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Cheesy Pasta in a Pot",
+    "cook_time": 45,
+    "cost": 2.6952999999999996,
+    "source_url": "https://www.foodista.com/recipe/CR2DVH83/cheesy-pasta-in-a-pot",
+    "ingredients": [
+      {
+        "name": "ground beef",
+        "amount": 2.0,
+        "unit": "lbs"
+      },
+      {
+        "name": "onions",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "garlic clove",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "spaghetti sauce",
+        "amount": 14.0,
+        "unit": "oz"
+      },
+      {
+        "name": "canned tomatoes",
+        "amount": 1.0,
+        "unit": "lb"
+      },
+      {
+        "name": "mushrooms",
+        "amount": 1.0,
+        "unit": "can"
+      },
+      {
+        "name": "shell pasta",
+        "amount": 8.0,
+        "unit": "oz"
+      },
+      {
+        "name": "provolone",
+        "amount": 0.5,
+        "unit": "lb"
+      },
+      {
+        "name": "mozzarella",
+        "amount": 0.5,
+        "unit": "lb"
+      }
+    ],
+    "nutrition": {
+      "calories": 490.82,
+      "protein": 43.68,
+      "carbs": 29.1,
+      "fat": 11.27
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Couscous with fried vegetables",
+    "cook_time": 30,
+    "cost": 2.5437,
+    "source_url": "http://spoonacular.com/-1380228522148",
+    "ingredients": [
+      {
+        "name": "carrot",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "chilli",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "couscous",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "feta cheese",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "olive oil",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "paprika",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "bell pepper",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "salt",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "zucchini",
+        "amount": 1.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 520.9,
+      "protein": 16.18,
+      "carbs": 58.19,
+      "fat": 6.25
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Fried Bee Hoon/ Vermicelli",
+    "cook_time": 45,
+    "cost": 2.5403000000000002,
+    "source_url": "https://www.foodista.com/recipe/34MHGGXL/fried-bee-hoon-vermicelli",
+    "ingredients": [
+      {
+        "name": "shrimp",
+        "amount": 8.0,
+        "unit": "medium"
+      },
+      {
+        "name": "bean sprouts",
+        "amount": 1.0,
+        "unit": "handful"
+      },
+      {
+        "name": "garlic cloves",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "spring onions",
+        "amount": 2.0,
+        "unit": "stalks"
+      },
+      {
+        "name": "chicken breast meat",
+        "amount": 3.0,
+        "unit": "servings"
+      },
+      {
+        "name": "carrot",
+        "amount": 1.0,
+        "unit": "small"
+      },
+      {
+        "name": "corn/ olive oil",
+        "amount": 3.0,
+        "unit": "servings"
+      },
+      {
+        "name": "flavoured pepper",
+        "amount": 1.0,
+        "unit": "Dashes"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 4.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "cornstarch to marinate chicken",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "tablepsoon sugar",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "vermicelli",
+        "amount": 1.0,
+        "unit": "packet"
+      },
+      {
+        "name": "water",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "sambal oelek",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "sambal oelek",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 432.25,
+      "protein": 52.25,
+      "carbs": 5.94,
+      "fat": 3.45
+    },
+    "dietary_tags": [
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Asian Lettuce Wraps",
+    "cook_time": 45,
+    "cost": 2.5473,
+    "source_url": "http://www.foodista.com/recipe/LMZSSTVV/asian-lettuce-wraps",
+    "ingredients": [
+      {
+        "name": "broccoli slaw",
+        "amount": 6.0,
+        "unit": "servings"
+      },
+      {
+        "name": "chicken stock",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "coconut aminos",
+        "amount": 2.0,
+        "unit": "Tablespoons"
+      },
+      {
+        "name": "garlic",
+        "amount": 2.0,
+        "unit": "Cloves"
+      },
+      {
+        "name": "lettuce",
+        "amount": 1.0,
+        "unit": "leaf"
+      },
+      {
+        "name": "ground ginger",
+        "amount": 1.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "extra-lean ground turkey",
+        "amount": 20.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "lime juice",
+        "amount": 1.0,
+        "unit": "Tablespoon"
+      },
+      {
+        "name": "orange marmalade",
+        "amount": 1.0,
+        "unit": "Tablespoon"
+      },
+      {
+        "name": "sesame oil",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "tapioca starch",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "thai fish sauce",
+        "amount": 1.0,
+        "unit": "Tablespoons"
+      }
+    ],
+    "nutrition": {
+      "calories": 157.91,
+      "protein": 25.34,
+      "carbs": 9.12,
+      "fat": 0.64
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Instant Pot Curried Lentil Soup",
+    "cook_time": 45,
+    "cost": 1.8906999999999998,
+    "source_url": "https://spoonacular.com/site-1579268888674",
+    "ingredients": [
+      {
+        "name": "carrots",
+        "amount": 3.0,
+        "unit": "cups"
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "coconut milk",
+        "amount": 8.5,
+        "unit": "oz"
+      },
+      {
+        "name": "curry powder",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "fresh cilantro",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "ginger",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "ghee",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "lentils",
+        "amount": 1.25,
+        "unit": "cups"
+      },
+      {
+        "name": "vegetable broth",
+        "amount": 5.0,
+        "unit": "cups"
+      }
+    ],
+    "nutrition": {
+      "calories": 424.07,
+      "protein": 18.36,
+      "carbs": 30.0,
+      "fat": 13.87
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Beef Lo Mein Noodles",
+    "cook_time": 45,
+    "cost": 2.2842,
+    "source_url": "https://www.foodista.com/recipe/8QKG6BC8/beef-lo-mein",
+    "ingredients": [
+      {
+        "name": "soba noodles",
+        "amount": 8.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "flank steak",
+        "amount": 0.75,
+        "unit": "pound"
+      },
+      {
+        "name": "oyster sauce",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "chicken stock",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "sesame oil",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "vegetable oil",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "garlic",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "ginger",
+        "amount": 2.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "green onions",
+        "amount": 0.25,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 344.28,
+      "protein": 23.05,
+      "carbs": 19.89,
+      "fat": 4.28
+    },
+    "dietary_tags": [
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Chicken thighs wrapped in prosciutto",
+    "cook_time": 45,
+    "cost": 2.5132,
+    "source_url": "http://www.foodista.com/recipe/NJJ7QPLQ/chicken-thighs-wrapped-in-prosciutto",
+    "ingredients": [
+      {
+        "name": "basil",
+        "amount": 1.0,
+        "unit": "Tbs"
+      },
+      {
+        "name": "thyme",
+        "amount": 1.0,
+        "unit": "Tbs"
+      },
+      {
+        "name": "juice of lemon",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "prosciutto",
+        "amount": 6.0,
+        "unit": "slices"
+      },
+      {
+        "name": "chicken thighs",
+        "amount": 6.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 340.7,
+      "protein": 45.78,
+      "carbs": 1.13,
+      "fat": 4.47
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Pasta With Roasted Vegetables & Greek Olives",
+    "cook_time": 45,
+    "cost": 2.842,
+    "source_url": "http://www.foodista.com/recipe/3Y7P7QZX/pasta-with-roasted-vegetables-greek-olives",
+    "ingredients": [
+      {
+        "name": "pack package angel hair spaghetti 2",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "tomato sauce",
+        "amount": 1.0,
+        "unit": "large can"
+      },
+      {
+        "name": "canned tomatoes",
+        "amount": 1.0,
+        "unit": "can"
+      },
+      {
+        "name": "basil",
+        "amount": 8.0,
+        "unit": "servings"
+      },
+      {
+        "name": "\u00bd garlic",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "\u00bc greek olives",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "seasoning",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "ground beef",
+        "amount": 1.0,
+        "unit": "pound"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "mushrooms",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "onion",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "\u00bd oregano",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "\u00bc parmesan cheese",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "\u00bd pepper",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "vegetables",
+        "amount": 1.0,
+        "unit": "pound"
+      },
+      {
+        "name": "\u00bc of sun tomatoes",
+        "amount": 1.0,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 266.44,
+      "protein": 23.03,
+      "carbs": 18.73,
+      "fat": 3.86
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Banana Bread with Chocolate Glaze",
+    "cook_time": 45,
+    "cost": 0.34369999999999995,
+    "source_url": "https://www.foodista.com/recipe/GWBLTQRT/banana-bread-with-chocolate-glaze",
+    "ingredients": [
+      {
+        "name": "granulated sugar",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "butter",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "banana",
+        "amount": 1.6666666,
+        "unit": "cups"
+      },
+      {
+        "name": "milk",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "greek yogurt",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": "large"
+      },
+      {
+        "name": "all purpose flour",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "baking soda",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "pecans",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "heavy cream",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "semi-sweet chocolate",
+        "amount": 2.0,
+        "unit": "ounces"
+      }
+    ],
+    "nutrition": {
+      "calories": 208.48,
+      "protein": 3.63,
+      "carbs": 29.23,
+      "fat": 3.73
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Pumpkin Praline Baked Oatmeal",
+    "cook_time": 45,
+    "cost": 0.9440999999999999,
+    "source_url": "http://www.foodista.com/recipe/YX5D7SZP/pumpkin-praline-baked-oatmeal",
+    "ingredients": [
+      {
+        "name": "baking powder",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "butter",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "eggs",
+        "amount": 4.0,
+        "unit": ""
+      },
+      {
+        "name": "ground cloves",
+        "amount": 0.25,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "ground nutmeg",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "brown sugar",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "milk",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "old fashioned rolled oats",
+        "amount": 3.0,
+        "unit": "cups"
+      },
+      {
+        "name": "pecans",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "pumpkin puree",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "butter",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 464.16,
+      "protein": 8.95,
+      "carbs": 46.12,
+      "fat": 11.87
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Whole Wheat Banana Bread with Walnuts",
+    "cook_time": 75,
+    "cost": 0.3344,
+    "source_url": "http://foodista.com/recipe/Q2N7585D/whole-wheat-banana-bread-with-walnuts",
+    "ingredients": [
+      {
+        "name": "baking powder",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "baking soda",
+        "amount": 0.75,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "bananas",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": "large"
+      },
+      {
+        "name": "flour",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "brown sugar",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "oil",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "greek yogurt",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "walnuts",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "flour",
+        "amount": 1.0,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 190.67,
+      "protein": 4.96,
+      "carbs": 32.07,
+      "fat": 0.65
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Whole Grain Pumpkin Bread",
+    "cook_time": 45,
+    "cost": 0.474,
+    "source_url": "http://www.foodista.com/recipe/NV6J583C/whole-grain-pumpkin-bread",
+    "ingredients": [
+      {
+        "name": "baking soda",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "firmly brown sugar",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "pumpkin",
+        "amount": 16.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "cinnamon",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "flour",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "ground cloves",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "molasses",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "nutmeg",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "oat bran",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "oil",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "pecans",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "wheat bran",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "wheat germ",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "flour",
+        "amount": 0.5,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 241.49,
+      "protein": 4.64,
+      "carbs": 34.0,
+      "fat": 5.28
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Fastest Cinnamon Rolls",
+    "cook_time": 45,
+    "cost": 0.3432,
+    "source_url": "http://www.foodista.com/recipe/KTYB2QHY/fastest-cinnamon-rolls",
+    "ingredients": [
+      {
+        "name": "all purpose flour",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "baking powder",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "baking soda",
+        "amount": 0.25,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "brown sugar",
+        "amount": 0.6666667,
+        "unit": "cup"
+      },
+      {
+        "name": "cinnamon",
+        "amount": 1.5,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "buttermilk",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "ground allspice",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "ground cardamom",
+        "amount": 0.25,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "mascarpone cheese",
+        "amount": 2.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "part skim ricotta cheese",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "powdered sugar",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "skim milk",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "sugar",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "butter",
+        "amount": 0.75,
+        "unit": "ounce"
+      },
+      {
+        "name": "butter",
+        "amount": 2.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 257.88,
+      "protein": 5.04,
+      "carbs": 38.82,
+      "fat": 5.59
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Gluten Free Waffles",
+    "cook_time": 45,
+    "cost": 0.7609,
+    "source_url": "https://www.foodista.com/recipe/576TZWT3/gluten-free-waffles",
+    "ingredients": [
+      {
+        "name": "baking powder",
+        "amount": 3.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "himalania pink salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "brown rice",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "potato starch",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "tapioca flour",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "coconut oil",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "coconut milk",
+        "amount": 1.5,
+        "unit": "cup"
+      },
+      {
+        "name": "honey",
+        "amount": 2.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "baking soda",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "eggs",
+        "amount": 3.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 270.05,
+      "protein": 5.41,
+      "carbs": 31.45,
+      "fat": 10.92
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Royal Wedding Pear and Coriander Scones",
+    "cook_time": 45,
+    "cost": 0.6262,
+    "source_url": "https://www.foodista.com/recipe/FS6V8XD5/royal-wedding-pear-and-coriander-scones",
+    "ingredients": [
+      {
+        "name": "pear",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "flour",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "xanthan gum)",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "baking soda",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "baking powder",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "butter",
+        "amount": 8.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "sucanat",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "cream",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "coriander",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 284.2,
+      "protein": 5.0,
+      "carbs": 28.8,
+      "fat": 8.99
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "White Cheddar Grits with Veggies",
+    "cook_time": 85,
+    "cost": 3.8076,
+    "source_url": "https://www.foodista.com/recipe/BDVWJYPB/white-cheddar-grits-with-veggies",
+    "ingredients": [
+      {
+        "name": "chicken broth",
+        "amount": 4.0,
+        "unit": "cups"
+      },
+      {
+        "name": "garlic",
+        "amount": 3.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "quick-cooking hominy grits",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "cheddar cheese",
+        "amount": 2.5,
+        "unit": "cups"
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": "large"
+      },
+      {
+        "name": "milk",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "cremini mushrooms",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "zucchini",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "baby zucchini",
+        "amount": 4.0,
+        "unit": ""
+      },
+      {
+        "name": "bell pepper",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "orange bell pepper",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "asparagus spears",
+        "amount": 8.0,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "radicchio",
+        "amount": 1.0,
+        "unit": "small head"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "rosemary",
+        "amount": 3.0,
+        "unit": "sprigs"
+      },
+      {
+        "name": "garlic powder",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.25,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "feta cheese",
+        "amount": 0.125,
+        "unit": "cup"
+      },
+      {
+        "name": "cayenne pepper",
+        "amount": 1.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 331.5,
+      "protein": 17.55,
+      "carbs": 22.86,
+      "fat": 8.46
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "5 Ingredient High Protein Pumpkin Pancakes",
+    "cook_time": 15,
+    "cost": 1.7491999999999999,
+    "source_url": "http://spoonacular.com/-1381515569559",
+    "ingredients": [
+      {
+        "name": "cottage cheese",
+        "amount": 60.0,
+        "unit": "grams"
+      },
+      {
+        "name": "egg",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "maple syrup",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "pumpkin pie spice",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "pumpkin puree",
+        "amount": 60.0,
+        "unit": "grams"
+      },
+      {
+        "name": "rolled oats",
+        "amount": 40.0,
+        "unit": "grams"
+      }
+    ],
+    "nutrition": {
+      "calories": 351.14,
+      "protein": 18.2,
+      "carbs": 42.52,
+      "fat": 3.01
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Spinach Almond Amaranth Breakfast Muffins",
+    "cook_time": 45,
+    "cost": 0.6656,
+    "source_url": "https://www.foodista.com/recipe/82QWKRLW/spinach-almond-amaranth-breakfast-muffins",
+    "ingredients": [
+      {
+        "name": "baby spinach",
+        "amount": 1.0,
+        "unit": "cups"
+      },
+      {
+        "name": "almond flour",
+        "amount": 1.0,
+        "unit": "cups"
+      },
+      {
+        "name": "amaranth",
+        "amount": 1.0,
+        "unit": "cups"
+      },
+      {
+        "name": "baking powder",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "eggs",
+        "amount": 4.0,
+        "unit": ""
+      },
+      {
+        "name": "flax oil",
+        "amount": 1.0,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 141.99,
+      "protein": 6.25,
+      "carbs": 6.23,
+      "fat": 1.21
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Bon \u201cApple\u201d Tite Cinnamon Rolls",
+    "cook_time": 45,
+    "cost": 2.2611000000000003,
+    "source_url": "https://www.foodista.com/recipe/PK4W7MF2/bon-apple-tite-cinnamon-rolls",
+    "ingredients": [
+      {
+        "name": "tropical food's pb&j",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "granny smith apple",
+        "amount": 1.0,
+        "unit": "small"
+      },
+      {
+        "name": "cinnamon rolls",
+        "amount": 1.0,
+        "unit": "package"
+      },
+      {
+        "name": "cinnamon",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "pumpkin pie spice",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "butter",
+        "amount": 0.5,
+        "unit": "stick"
+      },
+      {
+        "name": "brown sugar",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "caramel syrup",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "peanuts",
+        "amount": 0.5,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 539.49,
+      "protein": 7.35,
+      "carbs": 67.71,
+      "fat": 11.76
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Bacon and Arugula Quiche",
+    "cook_time": 45,
+    "cost": 0.922,
+    "source_url": "http://www.foodista.com/recipe/G4TLNK7J/bacon-and-arugula-quiche",
+    "ingredients": [
+      {
+        "name": "baby spinach leaves",
+        "amount": 8.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "bacon",
+        "amount": 6.0,
+        "unit": "slices"
+      },
+      {
+        "name": "balsamic vinegar",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.25,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "heavy cream",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "pre-baked pastry crust",
+        "amount": 9.0,
+        "unit": "inch"
+      },
+      {
+        "name": "salt",
+        "amount": 0.125,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "shallots",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "swiss cheese",
+        "amount": 0.75,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 224.39,
+      "protein": 7.5,
+      "carbs": 4.79,
+      "fat": 10.03
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Warm Mixed Berry Crumb Cake",
+    "cook_time": 45,
+    "cost": 1.4380000000000002,
+    "source_url": "http://www.foodista.com/recipe/RCB8SXTV/warm-mixed-berry-crumb-cake",
+    "ingredients": [
+      {
+        "name": "baking powder",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "lightly brown sugar",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "buttermilk",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "cornstarch",
+        "amount": 2.5,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "eggs",
+        "amount": 3.0,
+        "unit": "large"
+      },
+      {
+        "name": "flour",
+        "amount": 2.5,
+        "unit": "cups"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "salt",
+        "amount": 0.75,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "strawberries",
+        "amount": 8.0,
+        "unit": "cups"
+      },
+      {
+        "name": "sugar",
+        "amount": 1.25,
+        "unit": "cups"
+      },
+      {
+        "name": "butter",
+        "amount": 1.0,
+        "unit": "stick"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1.5,
+        "unit": "teaspoons"
+      }
+    ],
+    "nutrition": {
+      "calories": 412.94,
+      "protein": 6.59,
+      "carbs": 68.64,
+      "fat": 6.68
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Healthy Blueberry Lemon Pancakes",
+    "cook_time": 45,
+    "cost": 1.411,
+    "source_url": "https://www.foodista.com/recipe/WQY5LB2B/healthy-blueberry-lemon-pancakes",
+    "ingredients": [
+      {
+        "name": "greek lemon yogurt",
+        "amount": 0.33333334,
+        "unit": "cup"
+      },
+      {
+        "name": "egg whites",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "flour",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "baking soda",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "sugar",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.0,
+        "unit": "dash"
+      },
+      {
+        "name": "non-fat milk",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "blueberries",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "lemon yogurt",
+        "amount": 3.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "maple syrup",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "additional topping: blueberries",
+        "amount": 0.25,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 218.38,
+      "protein": 12.41,
+      "carbs": 37.01,
+      "fat": 0.08
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "artichoke leek frittata",
+    "cook_time": 60,
+    "cost": 1.9127,
+    "source_url": "https://spoonacular.com/-1436560650587",
+    "ingredients": [
+      {
+        "name": "all purpose flour",
+        "amount": 2.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "baking powder",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "butter",
+        "amount": 2.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "curd cottage cheese",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "eggs",
+        "amount": 5.0,
+        "unit": ""
+      },
+      {
+        "name": "chives",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "tarragon",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "artichoke hearts",
+        "amount": 4.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 0.25,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "leeks",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "parmesan cheese",
+        "amount": 1.0,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 338.73,
+      "protein": 22.06,
+      "carbs": 14.84,
+      "fat": 10.21
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Fresh Strawberry Baked Mini Donuts with Strawberry-Lime Glaze",
+    "cook_time": 30,
+    "cost": 0.1139,
+    "source_url": "http://www.foodista.com/recipe/4W3T5FFN/fresh-strawberry-baked-mini-donuts-with-strawberry-lime-glaze",
+    "ingredients": [
+      {
+        "name": "baking powder",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "butter",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "granulated sugar",
+        "amount": 0.33333334,
+        "unit": "C"
+      },
+      {
+        "name": "honey",
+        "amount": 0.25,
+        "unit": "C"
+      },
+      {
+        "name": "lime juice",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "non-fat buttermilk",
+        "amount": 0.75,
+        "unit": "C"
+      },
+      {
+        "name": "strawberries",
+        "amount": 0.6666667,
+        "unit": "C"
+      },
+      {
+        "name": "confectioner's sugar",
+        "amount": 1.0,
+        "unit": "C"
+      },
+      {
+        "name": "unbleached flour",
+        "amount": 1.0,
+        "unit": "C"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "flour",
+        "amount": 1.0,
+        "unit": "C"
+      }
+    ],
+    "nutrition": {
+      "calories": 72.1,
+      "protein": 1.3,
+      "carbs": 14.39,
+      "fat": 0.54
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Tropical Steel Cut Oatmeal",
+    "cook_time": 45,
+    "cost": 1.6581000000000001,
+    "source_url": "https://www.foodista.com/recipe/ZCNSQVZG/tropical-steel-cut-oatmeal",
+    "ingredients": [
+      {
+        "name": "steel cut oats",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "water",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "goji berries",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "cacao nibs",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "coconut",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "trader joe's peanut butter w/ roasted flaxseed",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "coconut milk",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "agave nectar",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 515.99,
+      "protein": 17.43,
+      "carbs": 63.45,
+      "fat": 7.85
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Lemon Coconut Granola",
+    "cook_time": 45,
+    "cost": 0.6057,
+    "source_url": "http://www.foodista.com/recipe/44DH6XF5/lemon-coconut-granola",
+    "ingredients": [
+      {
+        "name": "coconut oil",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "desiccated coconut",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "currants",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "flax seeds",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "honey",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "juice of lemon",
+        "amount": 3.0,
+        "unit": ""
+      },
+      {
+        "name": "peel of lemon",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "nuts",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "rolled oats",
+        "amount": 3.0,
+        "unit": "cups"
+      }
+    ],
+    "nutrition": {
+      "calories": 251.64,
+      "protein": 5.59,
+      "carbs": 23.32,
+      "fat": 7.09
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Asparagus Quiche",
+    "cook_time": 45,
+    "cost": 1.1514,
+    "source_url": "http://www.foodista.com/recipe/W8Y7DRYC/asparagus-quiche",
+    "ingredients": [
+      {
+        "name": "asparagus tips",
+        "amount": 250.0,
+        "unit": "grams"
+      },
+      {
+        "name": "slcs bacon",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "butter",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "tasty cheese",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "cream",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "egg yolks",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "flour",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "garlic",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "lemons",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "milk",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "onions",
+        "amount": 1.0,
+        "unit": "medium"
+      },
+      {
+        "name": "parmesan cheese",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "pch salt",
+        "amount": 1.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 288.37,
+      "protein": 9.25,
+      "carbs": 6.63,
+      "fat": 12.55
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Gingerbread Pancakes",
+    "cook_time": 45,
+    "cost": 0.2878,
+    "source_url": "http://www.foodista.com/recipe/G6HS2YYQ/gingerbread-pancakes",
+    "ingredients": [
+      {
+        "name": "baking powder",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "baking soda",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "butter",
+        "amount": 6.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": "large"
+      },
+      {
+        "name": "flour",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "ground cinnamon",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "ground ginger",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "milk",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "molasses",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "raisins",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 1.5,
+        "unit": "teaspoons"
+      }
+    ],
+    "nutrition": {
+      "calories": 164.84,
+      "protein": 3.69,
+      "carbs": 23.65,
+      "fat": 3.51
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Homemade Chewy Granola Bars",
+    "cook_time": 45,
+    "cost": 0.8615,
+    "source_url": "https://www.foodista.com/recipe/XX583T3Z/homemade-chewy-granola-bars",
+    "ingredients": [
+      {
+        "name": "brown sugar",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "peanut butter",
+        "amount": 0.6666667,
+        "unit": "cup"
+      },
+      {
+        "name": "corn syrup",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "butter",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "vanilla",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "cooking oats",
+        "amount": 3.0,
+        "unit": "cups"
+      },
+      {
+        "name": "coconut",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "sunflower nuts",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "cherries",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "wheat germ",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "sesame seeds",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "chocolate chips",
+        "amount": 1.0,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 517.99,
+      "protein": 10.19,
+      "carbs": 60.96,
+      "fat": 10.7
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Simple Rendang",
+    "cook_time": 45,
+    "cost": 2.6338999999999997,
+    "source_url": "http://www.foodista.com/recipe/5JD4XN2G/simple-rendang",
+    "ingredients": [
+      {
+        "name": "chicken",
+        "amount": 1.0,
+        "unit": "kg"
+      },
+      {
+        "name": "add chicken",
+        "amount": 20.0,
+        "unit": ""
+      },
+      {
+        "name": "thickly chillies",
+        "amount": 1.0,
+        "unit": "slice"
+      },
+      {
+        "name": "chillies",
+        "amount": 6.0,
+        "unit": ""
+      },
+      {
+        "name": "coconut milk from coconut",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "clvs garlic",
+        "amount": 5.0,
+        "unit": ""
+      },
+      {
+        "name": "cm piece ginger",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "level tsp ground turmeric",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "kaffir lime leaves",
+        "amount": 6.0,
+        "unit": ""
+      },
+      {
+        "name": "lemon grass",
+        "amount": 2.0,
+        "unit": "stalks"
+      },
+      {
+        "name": "lime juice",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "stir in lime juice",
+        "amount": 48.0,
+        "unit": "servings"
+      },
+      {
+        "name": "oil",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "salt",
+        "amount": 2.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "shallots",
+        "amount": 10.0,
+        "unit": ""
+      },
+      {
+        "name": "sugar",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "turmeric torn up",
+        "amount": 1.0,
+        "unit": "leaf"
+      }
+    ],
+    "nutrition": {
+      "calories": 727.81,
+      "protein": 61.3,
+      "carbs": 4.14,
+      "fat": 14.19
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Greek Side Salad",
+    "cook_time": 15,
+    "cost": 1.8986,
+    "source_url": "http://www.foodista.com/recipe/QZ2D5V6N/greek-salad",
+    "ingredients": [
+      {
+        "name": "cucumber",
+        "amount": 1.0,
+        "unit": "large"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "greek feta",
+        "amount": 0.25,
+        "unit": "pound"
+      },
+      {
+        "name": "kalamata olives",
+        "amount": 12.0,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": "large"
+      },
+      {
+        "name": "tomatoes",
+        "amount": 5.0,
+        "unit": "large"
+      }
+    ],
+    "nutrition": {
+      "calories": 276.64,
+      "protein": 6.87,
+      "carbs": 10.41,
+      "fat": 6.03
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Cucumber and Cannellini Bean Side Salad",
+    "cook_time": 45,
+    "cost": 0.9373,
+    "source_url": "http://www.foodista.com/recipe/VCJ4GKYF/cucumber-and-cannellini-bean-salad",
+    "ingredients": [
+      {
+        "name": "artichokes",
+        "amount": 14.0,
+        "unit": "oz"
+      },
+      {
+        "name": "pepper",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "cannellini beans",
+        "amount": 15.0,
+        "unit": "oz"
+      },
+      {
+        "name": "cucumbers",
+        "amount": 5.0,
+        "unit": ""
+      },
+      {
+        "name": "basil",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "capers - plus caper juice",
+        "amount": 1.0,
+        "unit": "Tbs"
+      },
+      {
+        "name": "juice of lemon",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "olive oil",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "onion",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "pepper flakes",
+        "amount": 0.25,
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "sugar",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "sun tomatoes",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "vinegar",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      }
+    ],
+    "nutrition": {
+      "calories": 114.59,
+      "protein": 4.73,
+      "carbs": 10.85,
+      "fat": 0.62
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Roasted Sweet Potato and Quinoa Soup",
+    "cook_time": 45,
+    "cost": 1.885,
+    "source_url": "https://www.foodista.com/recipe/DMR3DV4T/roasted-sweet-potato-and-quinoa-soup",
+    "ingredients": [
+      {
+        "name": "very sweet potato",
+        "amount": 1.0,
+        "unit": "large"
+      },
+      {
+        "name": "onion",
+        "amount": 0.5,
+        "unit": "large"
+      },
+      {
+        "name": "carrots",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "amount": 1.0,
+        "unit": "large clove"
+      },
+      {
+        "name": "olive oil",
+        "amount": 3.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "sea salt and pepper",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "vegetable stock",
+        "amount": 900.0,
+        "unit": "ml"
+      },
+      {
+        "name": "quinoa",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "panko crumbs",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "butter",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      },
+      {
+        "name": "parmesan",
+        "amount": 0.33333334,
+        "unit": "cup"
+      },
+      {
+        "name": "parsley",
+        "amount": 4.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 348.64,
+      "protein": 8.16,
+      "carbs": 36.47,
+      "fat": 4.87
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Asian Chickpea Lettuce Wraps",
+    "cook_time": 45,
+    "cost": 0.2998,
+    "source_url": "https://www.foodista.com/recipe/88WZSMJ6/asian-chickpea-lettuce-wraps",
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "amount": 2.0,
+        "unit": "oz"
+      },
+      {
+        "name": "chili sauce",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "hoison sauce",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "olive oil",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "rice vinegar",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "sugar",
+        "amount": 0.5,
+        "unit": "tbsp"
+      },
+      {
+        "name": "pepper flakes",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "sirachi sauce",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "basil",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "romaine leaves",
+        "amount": 6.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 51.66,
+      "protein": 1.18,
+      "carbs": 5.1,
+      "fat": 0.35
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Creamy Homemade Tomato Soup",
+    "cook_time": 30,
+    "cost": 1.1864,
+    "source_url": "https://www.foodista.com/recipe/Y883XB53/creamy-homemade-tomato-soup",
+    "ingredients": [
+      {
+        "name": "canned tomatoes",
+        "amount": 1.0,
+        "unit": "can"
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": "medium"
+      },
+      {
+        "name": "tomatoes",
+        "amount": 4.0,
+        "unit": ""
+      },
+      {
+        "name": "tomato puree",
+        "amount": 4.0,
+        "unit": "Tablespoons"
+      },
+      {
+        "name": "celery stalks",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "leek",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "butter",
+        "amount": 3.5,
+        "unit": "TBSP"
+      },
+      {
+        "name": "cream",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "basil",
+        "amount": 2.0,
+        "unit": "Teaspoons"
+      },
+      {
+        "name": "salt",
+        "amount": 2.0,
+        "unit": "Teaspoons"
+      },
+      {
+        "name": "bell pepper",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "water",
+        "amount": 4.0,
+        "unit": "cups"
+      },
+      {
+        "name": "chicken stock cube",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "cream",
+        "amount": 4.0,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 304.04,
+      "protein": 5.22,
+      "carbs": 16.54,
+      "fat": 14.58
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "avarakkai paruppu curry recipe",
+    "cook_time": 30,
+    "cost": 1.4238,
+    "source_url": "https://spoonacular.com/-1458055544821",
+    "ingredients": [
+      {
+        "name": "avarakkai / broad beans",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "chillies nos)",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "coriander seeds",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "jaggery",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "tamarind - lemon size",
+        "amount": 3.0,
+        "unit": "servings"
+      },
+      {
+        "name": "mustard",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "pepper corns tsp",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "amount": 3.0,
+        "unit": "servings"
+      },
+      {
+        "name": "tomatoes nos)",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "toor dal cup",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "turmeric powder tsp",
+        "amount": 0.25,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 215.44,
+      "protein": 5.78,
+      "carbs": 16.84,
+      "fat": 0.91
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Whisky Seville Marmalade Souffle",
+    "cook_time": 30,
+    "cost": 0.4911,
+    "source_url": "http://spoonacular.com/-1403425700457",
+    "ingredients": [
+      {
+        "name": "egg yolk",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "m milk",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "flour",
+        "amount": 1.5,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "sugar",
+        "amount": 50.0,
+        "unit": "g"
+      },
+      {
+        "name": "tasmanian gourmet sauce's whisky seville marmalade",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      }
+    ],
+    "nutrition": {
+      "calories": 123.21,
+      "protein": 3.79,
+      "carbs": 14.86,
+      "fat": 1.13
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Whole-wheat Flaxseed and Fennel Crackers",
+    "cook_time": 45,
+    "cost": 0.24780000000000002,
+    "source_url": "https://www.foodista.com/recipe/P4ZGZX8Q/whole-wheat-flaxseed-and-fennel-crackers",
+    "ingredients": [
+      {
+        "name": "all purpose flour",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "flour",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "flaxseed",
+        "amount": 4.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "fennel seed",
+        "amount": 4.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "butter",
+        "amount": 2.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "milk",
+        "amount": 0.6666667,
+        "unit": "cup"
+      },
+      {
+        "name": "olive oil",
+        "amount": 48.0,
+        "unit": "servings"
+      },
+      {
+        "name": "sea salt",
+        "amount": 48.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 154.13,
+      "protein": 0.94,
+      "carbs": 3.68,
+      "fat": 2.35
+    },
+    "dietary_tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Fig, Apple, and Arugula Salad",
+    "cook_time": 45,
+    "cost": 4.8636,
+    "source_url": "https://www.foodista.com/recipe/H562M6K2/fig-apple-and-roquette-salad",
+    "ingredients": [
+      {
+        "name": "roquette arugula lettuce",
+        "amount": 3.0,
+        "unit": "cups"
+      },
+      {
+        "name": "figs",
+        "amount": 3.0,
+        "unit": ""
+      },
+      {
+        "name": "an apple",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "peppers",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "dressing",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "olive oil",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "maple syrup",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "rosemary",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "sumac powder",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 454.29,
+      "protein": 4.6,
+      "carbs": 70.21,
+      "fat": 2.23
+    },
+    "dietary_tags": [
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Ginger-Baked Pears",
+    "cook_time": 45,
+    "cost": 1.7975,
+    "source_url": "https://www.foodista.com/recipe/SKPVHFBC/ginger-baked-pears",
+    "ingredients": [
+      {
+        "name": "wine",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "sugar",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "vanilla bean",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "very finely-minced ginger",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "cinnamon",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "pears",
+        "amount": 3.0,
+        "unit": "large"
+      }
+    ],
+    "nutrition": {
+      "calories": 117.46,
+      "protein": 0.48,
+      "carbs": 19.42,
+      "fat": 0.03
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Simple Kale Salad",
+    "cook_time": 45,
+    "cost": 0.6708,
+    "source_url": "https://www.foodista.com/recipe/V34J2348/simple-kale-salad",
+    "ingredients": [
+      {
+        "name": "kale",
+        "amount": 1.0,
+        "unit": "bunch"
+      },
+      {
+        "name": "avocado",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "orange bell pepper",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": "small"
+      },
+      {
+        "name": "juice of lemon",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "olive oil",
+        "amount": 0.125,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 6.0,
+        "unit": "servings"
+      }
+    ],
+    "nutrition": {
+      "calories": 114.55,
+      "protein": 1.72,
+      "carbs": 3.19,
+      "fat": 1.39
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Homemade Creamy Tomato Soup",
+    "cook_time": 45,
+    "cost": 0.7447,
+    "source_url": "https://www.foodista.com/recipe/KWCKF3DT/homemade-creamy-tomato-soup",
+    "ingredients": [
+      {
+        "name": "oil",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "garlic clove",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "tomatoes",
+        "amount": 2.0,
+        "unit": "pounds"
+      },
+      {
+        "name": "vegetable stock",
+        "amount": 1.0,
+        "unit": "cup"
+      },
+      {
+        "name": "tomato paste",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "sugar",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "heavy cream",
+        "amount": 1.0,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 220.85,
+      "protein": 4.07,
+      "carbs": 12.79,
+      "fat": 9.37
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Butternut Squash Souffle Side Dish",
+    "cook_time": 45,
+    "cost": 0.812,
+    "source_url": "http://www.foodista.com/recipe/5RYRXBMV/butternut-squash-souffle",
+    "ingredients": [
+      {
+        "name": "butter to grease the ramekins",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "butternut squash",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "cinnamon",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "egg whites",
+        "amount": 3.0,
+        "unit": ""
+      },
+      {
+        "name": "egg yolks",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "ground ginger",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "heavy cream",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "nutmeg",
+        "amount": 0.25,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "splash of vanilla extract",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "milk",
+        "amount": 0.25,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 234.01,
+      "protein": 6.25,
+      "carbs": 11.51,
+      "fat": 10.62
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Pan Fried Fish",
+    "cook_time": 45,
+    "cost": 0.9264,
+    "source_url": "http://www.foodista.com/recipe/D2XW8CWD/pan-fried-fish",
+    "ingredients": [
+      {
+        "name": "pepper",
+        "amount": 2.0,
+        "unit": "servings"
+      },
+      {
+        "name": "butter",
+        "amount": 3.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "canola oil",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "capers",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "skin-on fish fillets abt 8",
+        "amount": 1.0,
+        "unit": "ounce"
+      },
+      {
+        "name": "flour",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 1.0,
+        "unit": "small"
+      },
+      {
+        "name": "lemon",
+        "amount": 1.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 419.11,
+      "protein": 7.05,
+      "carbs": 26.64,
+      "fat": 11.99
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Blueberry Ricotta Tartlettes",
+    "cook_time": 45,
+    "cost": 0.9701000000000001,
+    "source_url": "http://www.foodista.com/recipe/FB75JJNG/blueberry-ricotta-tartlettes",
+    "ingredients": [
+      {
+        "name": "into pieces",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "blueberries",
+        "amount": 2.0,
+        "unit": "cups"
+      },
+      {
+        "name": "cinnamon",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "confectioners' sugar",
+        "amount": 80.0,
+        "unit": "grams"
+      },
+      {
+        "name": "egg yolk",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "ricotta",
+        "amount": 200.0,
+        "unit": "grams"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      }
+    ],
+    "nutrition": {
+      "calories": 227.68,
+      "protein": 7.04,
+      "carbs": 31.3,
+      "fat": 4.76
+    },
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Pear, Leek & Gruyere Turnovers",
+    "cook_time": 45,
+    "cost": 1.6252000000000002,
+    "source_url": "https://www.foodista.com/recipe/2K4JGX35/pear-leek-gruyere-turnovers",
+    "ingredients": [
+      {
+        "name": "butter",
+        "amount": 2.0,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "leeks",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "pears",
+        "amount": 42.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "sugar",
+        "amount": 1.5,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "gruy\u00e9re cheese cheese",
+        "amount": 3.0,
+        "unit": "ounces"
+      },
+      {
+        "name": "chives",
+        "amount": 1.5,
+        "unit": "tablespoons"
+      },
+      {
+        "name": "puff pastry",
+        "amount": 1.0,
+        "unit": "package"
+      },
+      {
+        "name": "egg",
+        "amount": 1.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 512.43,
+      "protein": 9.17,
+      "carbs": 47.62,
+      "fat": 9.93
+    },
+    "dietary_tags": []
+  },
+  {
+    "name": "Kale Bruschetta",
+    "cook_time": 45,
+    "cost": 0.2572,
+    "source_url": "http://www.foodista.com/recipe/3MK8JYZR/kale-bruschetta",
+    "ingredients": [
+      {
+        "name": "bread",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": 1.0,
+        "unit": "serving"
+      },
+      {
+        "name": "garlic clove",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "kale",
+        "amount": 1.0,
+        "unit": "inch"
+      },
+      {
+        "name": "sea salt",
+        "amount": 1.0,
+        "unit": "serving"
+      }
+    ],
+    "nutrition": {
+      "calories": 132.05,
+      "protein": 0.35,
+      "carbs": 1.46,
+      "fat": 1.95
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Peanut Butter Hummus",
+    "cook_time": 45,
+    "cost": 0.2422,
+    "source_url": "http://www.foodista.com/recipe/SNXDZZ82/peanut-butter-hummus",
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "amount": 1.0,
+        "unit": "can"
+      },
+      {
+        "name": "ground cumin",
+        "amount": 2.0,
+        "unit": "mL"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 60.0,
+        "unit": "mL"
+      },
+      {
+        "name": "peanut butter",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "water",
+        "amount": 60.0,
+        "unit": "mL"
+      }
+    ],
+    "nutrition": {
+      "calories": 148.74,
+      "protein": 6.49,
+      "carbs": 8.56,
+      "fat": 1.75
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Vegetable Paneer Skewers Or Paneer Tikka",
+    "cook_time": 45,
+    "cost": 0.5294,
+    "source_url": "https://www.foodista.com/recipe/J7H8RKMP/vegetable-paneer-skewers-or-paneer-tikka",
+    "ingredients": [
+      {
+        "name": "bell pepper",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "paneer 1\" x 1\"",
+        "amount": 8.0,
+        "unit": "pieces"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2.0,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "yogurt",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "olive oil",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "ginger garlic paste",
+        "amount": 1.0,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "salt& chilli powder",
+        "amount": 6.0,
+        "unit": "servings"
+      },
+      {
+        "name": "chaat masala",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "jeera powder",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "chilli and 3 cilantro",
+        "amount": 1.0,
+        "unit": "leaves"
+      }
+    ],
+    "nutrition": {
+      "calories": 53.14,
+      "protein": 1.75,
+      "carbs": 3.96,
+      "fat": 0.93
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Stir Fried Cabbage and Tomatoes",
+    "cook_time": 45,
+    "cost": 0.8089,
+    "source_url": "https://www.foodista.com/recipe/FFZJFQPK/stir-fried-cabbage-and-tomatoes",
+    "ingredients": [
+      {
+        "name": "beijing cabbage",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "tomatoes",
+        "amount": 2.0,
+        "unit": "medium"
+      },
+      {
+        "name": "gloves garlic",
+        "amount": 2.0,
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "sugar",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "ketchup",
+        "amount": 1.0,
+        "unit": "tbsp"
+      },
+      {
+        "name": "water",
+        "amount": 2.0,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 95.99,
+      "protein": 4.27,
+      "carbs": 15.08,
+      "fat": 0.12
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ]
+  },
+  {
+    "name": "Salade Grecque",
+    "cook_time": 45,
+    "cost": 1.1906,
+    "source_url": "http://www.foodista.com/recipe/3GGPPFFQ/salade-grecque",
+    "ingredients": [
+      {
+        "name": "olives",
+        "amount": 16.0,
+        "unit": ""
+      },
+      {
+        "name": "bell pepper",
+        "amount": 3.0,
+        "unit": "servings"
+      },
+      {
+        "name": "cucumber",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "block feta cheese",
+        "amount": 1.0,
+        "unit": ""
+      },
+      {
+        "name": "bell pepper",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "herbs",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "olive oil",
+        "amount": 4.0,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "onions",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "salt",
+        "amount": 2.5,
+        "unit": "teaspoons"
+      },
+      {
+        "name": "tomatoes",
+        "amount": 4.0,
+        "unit": ""
+      }
+    ],
+    "nutrition": {
+      "calories": 245.15,
+      "protein": 2.43,
+      "carbs": 7.63,
+      "fat": 3.13
+    },
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ]
   }
 ]

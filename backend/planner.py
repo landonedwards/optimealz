@@ -1,12 +1,11 @@
 import random
-from .ingredients import aggregate_ingredients
 
 def filter_recipes(recipes, constraints):
     valid_recipes = []
 
     for recipe in recipes:
-        # skip any single recipe that violates the max cooking time 
-        if recipe.cook_time > constraints.max_cook_time:
+        # skip any single recipe that violates the max cooking time (or doesn't have a cook time)
+        if recipe.cook_time is None or recipe.cook_time > constraints.max_cook_time:
             continue
 
         if constraints.dietary_restriction:

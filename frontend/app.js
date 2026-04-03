@@ -277,18 +277,18 @@ function renderPlan(data, dailyCalorieTarget) {
   renderMacroChart(allMeals);
 }
 
-function validateConstraints(data) {
-  if (data.max_calories <= 0) {
+function validateConstraints(calories, budget, cookTime) {
+  if (calories <= 0) {
     alert("Calories must be greater than 0.");
     return false;
   }
 
-  if (data.max_budget <= 0) {
+  if (budget <= 0) {
     alert("Budget must be greater than 0.");
     return false;
   }
 
-  if (data.max_cook_time <= 0) {
+  if (cookTime <= 0) {
     alert("Cooking time must be greater than 0.");
     return false;
   }
@@ -330,7 +330,7 @@ form.addEventListener("submit", async (event) => {
     };
 
     // if constraints are not valid, return early
-    if (!validateConstraints(constraints)) {
+    if (!validateConstraints(calories, budget, cookingTime)) {
       return;
     }
 
